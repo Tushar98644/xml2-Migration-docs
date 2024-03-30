@@ -1,0 +1,47 @@
+import Image from 'next/image'
+
+# Migration Guide
+
+<Image
+  src="/bg.webp"
+  alt="guide"
+  className="w-auto select-none bg-white"
+  width="1200"
+  height="600"
+/>
+
+The documentation guide for migrating packages from XML to xml2
+
+## Introduction
+
+import { Cards } from 'nextra/components'
+
+The migration guide aims to assist users in transitioning from using the XML package to the xml2 package in their R projects. The XML package, although widely used, has certain limitations and has been largely superseded by the more modern and efficient xml2 package. This guide will provide step-by-step instructions and best practices for migrating your existing codebase from the XML package to xml2.
+
+## Packages
+
+Let’s start the Tour together!
+
+<Cards num={3}>
+  <Cards.Card arrow title="tmaptools docs" href="/tmaptools/quickstart" />
+</Cards>
+
+## FAQ
+
+Questions that usually Users asks for different implementations
+
+export function FAQBox({ title, children }) {
+  return (
+    <details
+      open
+      className="last-of-type:mb-0 rounded-lg bg-neutral-50 dark:bg-neutral-800 p-2 mt-4"
+    >
+      <summary>
+        <strong className="text-lg">{title}</strong>
+      </summary>
+      <div className="nx-p-2">{children}</div>
+    </details>
+  )
+}
+
+<FAQBox title="First question">First answer…</FAQBox>

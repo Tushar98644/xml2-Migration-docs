@@ -1,0 +1,37 @@
+{
+  "name": "Migration guide",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "turbo run build",
+    "dev": "turbo run dev --no-cache --parallel --continue",
+    "lint": "turbo run lint",
+    "clean": "turbo run clean && rm -rf node_modules",
+    "format": "prettier --write \"**/*.{ts,tsx,md,mdx}\"",
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "turbo run build && changeset publish"
+  },
+  "devDependencies": {
+    "eslint-plugin-prettier": "^5.0.1",
+    "prettier": "^3.1.0",
+    "turbo": "^1.11.0"
+  },
+  "engines": {
+    "npm": ">=7.0.0",
+    "node": ">=14.0.0"
+  },
+  "packageManager": "yarn@1.22.18",
+  "dependencies": {
+    "@changesets/cli": "^2.27.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/"
+  },
+  "homepage": "https://github.com/"
+}

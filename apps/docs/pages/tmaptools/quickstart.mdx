@@ -1,0 +1,29 @@
+# Install and use tmaptools
+
+A popover positioned based on certain values
+
+## Install [@tmaptools](https://www.rdocumentation.org/packages/tmaptools/versions/3.1-1)
+
+```sh r
+install.packages('tmaptools')
+```
+
+## Usage
+
+```r
+# Load required libraries
+library(tmap)
+library(tmaptools)
+
+# Load example data
+data(Europe)
+
+# Plot the original map
+plot(Europe)
+
+# Simplify the polygons
+Europe_simplified <- thinnedSpatialPoly(Europe, tolerance = 0.1)
+
+# Plot the simplified map
+plot(Europe_simplified)
+```
