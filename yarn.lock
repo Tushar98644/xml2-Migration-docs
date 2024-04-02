@@ -1496,11 +1496,12 @@
   resolved "https://registry.yarnpkg.com/@eslint/js/-/js-8.55.0.tgz#b721d52060f369aa259cf97392403cb9ce892ec6"
   integrity sha512-qQfo2mxH5yVom1kacMtZZJFVdW+E70mqHMJvVg6WTLo+VBuQJ4TojZlfWBjK0ve5BdEeNAVxOsl/nvNMpJOaJA==
 
-"@headlessui/react@^1.7.10":
-  version "1.7.17"
-  resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.7.17.tgz#a0ec23af21b527c030967245fd99776aa7352bc6"
-  integrity sha512-4am+tzvkqDSSgiwrsEpGWqgGo9dz8qU5M3znCkC4PgkpY4HcCZzEDEvozltGGGHIKl9jbXbZPSH5TWn4sWJdow==
+"@headlessui/react@^1.7.10", "@headlessui/react@^1.7.17":
+  version "1.7.18"
+  resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.7.18.tgz#30af4634d2215b2ca1aa29d07f33d02bea82d9d7"
+  integrity sha512-4i5DOrzwN4qSgNsL4Si61VMkUcWbcSKueUV7sFhpHzQcSShdlHENE5+QBntMSRvHt8NyoFO2AGG8si9lq+w4zQ==
   dependencies:
+    "@tanstack/react-virtual" "^3.0.0-beta.60"
     client-only "^0.0.1"
 
 "@humanwhocodes/config-array@^0.11.13":
@@ -1964,7 +1965,7 @@
     tiny-glob "^0.2.9"
     tslib "^2.4.0"
 
-"@popperjs/core@^2.11.6":
+"@popperjs/core@^2.11.8":
   version "2.11.8"
   resolved "https://registry.yarnpkg.com/@popperjs/core/-/core-2.11.8.tgz#6b79032e760a0899cd4204710beede972a3a185f"
   integrity sha512-P1st0aksCrn9sGZhp8GMYwBnQsbvAWsZAX44oXNNvLHGqAOcoVxmjZiohstwQ7SqKnbR47akdNi+uleWD8+g6A==
@@ -2112,6 +2113,18 @@
   integrity sha512-E4KcWTpoLHqwPHLxidpOqQbcrZVgi0rsmmZXUle1jXmJfuIf/UWpczUJ7MZZ5tlxytgJXyp0w4PGkkeLiuIdZw==
   dependencies:
     tslib "^2.4.0"
+
+"@tanstack/react-virtual@^3.0.0-beta.60":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-virtual/-/react-virtual-3.2.0.tgz#fb70f9c6baee753a5a0f7618ac886205d5a02af9"
+  integrity sha512-OEdMByf2hEfDa6XDbGlZN8qO6bTjlNKqjM3im9JG+u3mCL8jALy0T/67oDI001raUUPh1Bdmfn4ZvPOV5knpcg==
+  dependencies:
+    "@tanstack/virtual-core" "3.2.0"
+
+"@tanstack/virtual-core@3.2.0":
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/@tanstack/virtual-core/-/virtual-core-3.2.0.tgz#874d36135e4badce2719e7bdc556ce240cbaff14"
+  integrity sha512-P5XgYoAw/vfW65byBbJQCw+cagdXDT/qH6wmABiLt4v4YBT2q2vqCOhihe+D1Nt325F/S/0Tkv6C5z0Lv+VBQQ==
 
 "@theguild/remark-mermaid@^0.0.5":
   version "0.0.5"
@@ -5817,12 +5830,12 @@ next@^13.5.6:
     "@next/swc-win32-x64-msvc" "13.5.6"
 
 nextra-theme-docs@latest:
-  version "2.13.2"
-  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-2.13.2.tgz#7f0c2bdd83d8866201775edd654398417a564878"
-  integrity sha512-yE4umXaImp1/kf/sFciPj2+EFrNSwd9Db26hi98sIIiujzGf3+9eUgAz45vF9CwBw50FSXxm1QGRcY+slQ4xQQ==
+  version "2.13.4"
+  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-2.13.4.tgz#821795e149537413f459ae4b520eba1a195e5e07"
+  integrity sha512-2XOoMfwBCTYBt8ds4ZHftt9Wyf2XsykiNo02eir/XEYB+sGeUoE77kzqfidjEOKCSzOHYbK9BDMcg2+B/2vYRw==
   dependencies:
-    "@headlessui/react" "^1.7.10"
-    "@popperjs/core" "^2.11.6"
+    "@headlessui/react" "^1.7.17"
+    "@popperjs/core" "^2.11.8"
     clsx "^2.0.0"
     escape-string-regexp "^5.0.0"
     flexsearch "^0.7.31"
@@ -5832,7 +5845,7 @@ nextra-theme-docs@latest:
     match-sorter "^6.3.1"
     next-seo "^6.0.0"
     next-themes "^0.2.1"
-    scroll-into-view-if-needed "^3.0.0"
+    scroll-into-view-if-needed "^3.1.0"
     zod "^3.22.3"
 
 nextra@latest:
@@ -6656,7 +6669,7 @@ scheduler@^0.23.0:
   dependencies:
     loose-envify "^1.1.0"
 
-scroll-into-view-if-needed@^3.0.0:
+scroll-into-view-if-needed@^3.1.0:
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/scroll-into-view-if-needed/-/scroll-into-view-if-needed-3.1.0.tgz#fa9524518c799b45a2ef6bbffb92bcad0296d01f"
   integrity sha512-49oNpRjWRvnU8NyGVmUaYG4jtTkNonFZI86MmGRDqBphEK2EXT9gdEUoQPZhuBM8yWHxCWbobltqYO5M4XrUvQ==
