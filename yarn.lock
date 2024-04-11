@@ -1504,9 +1504,9 @@
     strict-event-emitter "^0.4.3"
 
 "@codesandbox/sandpack-client@^2.10.0":
-  version "2.10.0"
-  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-client/-/sandpack-client-2.10.0.tgz#01363b827195ab54c74834b420983d732e342327"
-  integrity sha512-1vLN0j8ElzTmTG43yoBj1dsOyuw6SqRH9rRa13D32jtM4v2qPFLWIFElcyNpH/YbWsCRZTUCN6ku6U4Yw/Xdvg==
+  version "2.13.8"
+  resolved "https://registry.yarnpkg.com/@codesandbox/sandpack-client/-/sandpack-client-2.13.8.tgz#fcf2f86caa7cf793a42ce6b24d03e98b4e42df4a"
+  integrity sha512-IjVlqfVK0fascNyUVH9hs5UZBx4KhKtyZyDrxdiDyQBtLmgESNaFWelAf4a/PX4gJp+H+WW6/iC6KzR7XtK//w==
   dependencies:
     "@codesandbox/nodebox" "0.1.8"
     buffer "^6.0.3"
