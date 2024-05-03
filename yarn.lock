@@ -927,11 +927,11 @@
     "@babel/helper-plugin-utils" "^7.24.0"
 
 "@babel/plugin-transform-typeof-symbol@^7.24.1":
-  version "7.24.1"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-typeof-symbol/-/plugin-transform-typeof-symbol-7.24.1.tgz#6831f78647080dec044f7e9f68003d99424f94c7"
-  integrity sha512-CBfU4l/A+KruSUoW+vTQthwcAdwuqbpRNB8HQKlZABwHRhsdHZ9fezp4Sn18PeAlYxTNiLMlx4xUBV3AWfg1BA==
+  version "7.24.5"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-typeof-symbol/-/plugin-transform-typeof-symbol-7.24.5.tgz#703cace5ef74155fb5eecab63cbfc39bdd25fe12"
+  integrity sha512-UTGnhYVZtTAjdwOTzT+sCyXmTn8AhaxOS/MjG9REclZ6ULHWF9KoCZur0HSGU7hk8PdBFKKbYe6+gqdXWz84Jg==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.24.0"
+    "@babel/helper-plugin-utils" "^7.24.5"
 
 "@babel/plugin-transform-typescript@^7.24.1":
   version "7.24.5"
