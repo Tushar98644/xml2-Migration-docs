@@ -59,7 +59,7 @@
     json5 "^2.2.3"
     semver "^6.3.1"
 
-"@babel/generator@^7.24.1", "@babel/generator@^7.24.4":
+"@babel/generator@^7.24.1", "@babel/generator@^7.24.4", "@babel/generator@^7.24.5":
   version "7.24.5"
   resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.24.5.tgz#e5afc068f932f05616b66713e28d0f04e99daeb3"
   integrity sha512-x32i4hEXvr+iI0NEoEfDKzlemF8AmtOP8CcrRaEcpzysWuoEb1KknpcvMsHKPONoKZiDuItklgWhB18xEhr9PA==
@@ -310,13 +310,13 @@
     "@babel/types" "^7.22.19"
 
 "@babel/helpers@^7.24.4":
-  version "7.24.4"
-  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.24.4.tgz#dc00907fd0d95da74563c142ef4cd21f2cb856b6"
-  integrity sha512-FewdlZbSiwaVGlgT1DPANDuCHaDMiOo+D/IDYRFYjHOuv66xMSJ7fQwwODwRNAPkADIO/z1EoF/l2BCWlWABDw==
+  version "7.24.5"
+  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.24.5.tgz#fedeb87eeafa62b621160402181ad8585a22a40a"
+  integrity sha512-CiQmBMMpMQHwM5m01YnrM6imUG1ebgYJ+fAIW4FZe6m4qHTPaRHti+R8cggAwkdz4oXhtO4/K9JWlh+8hIfR2Q==
   dependencies:
     "@babel/template" "^7.24.0"
-    "@babel/traverse" "^7.24.1"
-    "@babel/types" "^7.24.0"
+    "@babel/traverse" "^7.24.5"
+    "@babel/types" "^7.24.5"
 
 "@babel/highlight@^7.24.2":
   version "7.24.2"
@@ -328,7 +328,7 @@
     js-tokens "^4.0.0"
     picocolors "^1.0.0"
 
-"@babel/parser@^7.24.0", "@babel/parser@^7.24.1", "@babel/parser@^7.24.4":
+"@babel/parser@^7.24.0", "@babel/parser@^7.24.1", "@babel/parser@^7.24.4", "@babel/parser@^7.24.5":
   version "7.24.5"
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.24.5.tgz#4a4d5ab4315579e5398a82dcf636ca80c3392790"
   integrity sha512-EOv5IK8arwh3LI47dz1b0tKUb/1uhHAnHJOrjgtQMIpu1uXd9mlFrJg9IUgGUgZ41Ch0K8REPTYpO7B76b4vJg==
@@ -1115,6 +1115,22 @@
     "@babel/helper-split-export-declaration" "^7.22.6"
     "@babel/parser" "^7.24.1"
     "@babel/types" "^7.24.0"
+    debug "^4.3.1"
+    globals "^11.1.0"
+
+"@babel/traverse@^7.24.5":
+  version "7.24.5"
+  resolved "https://registry.yarnpkg.com/@babel/traverse/-/traverse-7.24.5.tgz#972aa0bc45f16983bf64aa1f877b2dd0eea7e6f8"
+  integrity sha512-7aaBLeDQ4zYcUFDUD41lJc1fG8+5IU9DaNSJAgal866FGvmD5EbWQgnEC6kO1gGLsX0esNkfnJSndbTXA3r7UA==
+  dependencies:
+    "@babel/code-frame" "^7.24.2"
+    "@babel/generator" "^7.24.5"
+    "@babel/helper-environment-visitor" "^7.22.20"
+    "@babel/helper-function-name" "^7.23.0"
+    "@babel/helper-hoist-variables" "^7.22.5"
+    "@babel/helper-split-export-declaration" "^7.24.5"
+    "@babel/parser" "^7.24.5"
+    "@babel/types" "^7.24.5"
     debug "^4.3.1"
     globals "^11.1.0"
 
