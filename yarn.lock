@@ -6007,9 +6007,9 @@ npm-run-path@^2.0.0:
     path-key "^2.0.0"
 
 npm-to-yarn@^2.1.0:
-  version "2.1.0"
-  resolved "https://registry.yarnpkg.com/npm-to-yarn/-/npm-to-yarn-2.1.0.tgz#ff4e18028d18eb844691f1ccb556be5f3ccfde34"
-  integrity sha512-2C1IgJLdJngq1bSER7K7CGFszRr9s2rijEwvENPEgI0eK9xlD3tNwDc0UJnRj7FIT2aydWm72jB88uVswAhXHA==
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/npm-to-yarn/-/npm-to-yarn-2.2.1.tgz#048843a6630621daffc6a239dfc89698b8abf7e8"
+  integrity sha512-O/j/ROyX0KGLG7O6Ieut/seQ0oiTpHF2tXAcFbpdTLQFiaNtkyTXXocM1fwpaa60dg1qpWj0nHlbNhx6qwuENQ==
 
 nth-check@^2.0.1:
   version "2.1.1"
