@@ -3014,9 +3014,9 @@ cytoscape-cose-bilkent@^4.1.0:
     cose-base "^1.0.0"
 
 cytoscape@^3.28.1:
-  version "3.29.0"
-  resolved "https://registry.yarnpkg.com/cytoscape/-/cytoscape-3.29.0.tgz#fb3b25b78a4a5ab2ca267e54f5f09725fdc006d8"
-  integrity sha512-ADqhlrCKhhQF8s/s3hTpvVAIyWwsfgFI/hD2vhAXc2ndncJFVZaq3/uBkDIhf4RrNwPw93vUarW36x6rFbUk0Q==
+  version "3.29.2"
+  resolved "https://registry.yarnpkg.com/cytoscape/-/cytoscape-3.29.2.tgz#c99f42513c80a75e2e94858add32896c860202ac"
+  integrity sha512-2G1ycU28Nh7OHT9rkXRLpCDP30MKH1dXJORZuBhtEhEW7pKwgPi77ImqlCWinouyE1PNepIOGZBOrE84DG7LyQ==
 
 "d3-array@1 - 2":
   version "2.12.1"
