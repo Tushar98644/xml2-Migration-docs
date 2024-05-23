@@ -1267,9 +1267,9 @@
   integrity sha512-b1UkfNulgKoWfqyHtzKS5fOZYSJO+77adgL7DLRDr+/7jhChN+QcHnbjiQVOz/U+Ts3PGNySq7diAItzDgugfQ==
 
 "@changesets/write@^0.3.0":
-  version "0.3.0"
-  resolved "https://registry.yarnpkg.com/@changesets/write/-/write-0.3.0.tgz#c6c5bc390cce4031da20eab8a4ca2d71453a1985"
-  integrity sha512-slGLb21fxZVUYbyea+94uFiD6ntQW0M2hIKNznFizDhZPDgn2c/fv1UzzlW43RVzh1BEDuIqW6hzlJ1OflNmcw==
+  version "0.3.1"
+  resolved "https://registry.yarnpkg.com/@changesets/write/-/write-0.3.1.tgz#438ef1dabc790cca35ce9fd36d26643b0f1786c9"
+  integrity sha512-SyGtMXzH3qFqlHKcvFY2eX+6b0NGiFcNav8AFsYwy5l8hejOeoeTDemu5Yjmke2V5jpzY+pBvM0vCCQ3gdZpfw==
   dependencies:
     "@babel/runtime" "^7.20.1"
     "@changesets/types" "^6.0.0"
