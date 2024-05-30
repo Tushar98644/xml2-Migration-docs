@@ -935,11 +935,11 @@
     regenerator-transform "^0.15.2"
 
 "@babel/plugin-transform-reserved-words@^7.24.1":
-  version "7.24.1"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-reserved-words/-/plugin-transform-reserved-words-7.24.1.tgz#8de729f5ecbaaf5cf83b67de13bad38a21be57c1"
-  integrity sha512-JAclqStUfIwKN15HrsQADFgeZt+wexNQ0uLhuqvqAUFoqPMjEcFCYZBhq0LUdz6dZK/mD+rErhW71fbx8RYElg==
+  version "7.24.6"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-reserved-words/-/plugin-transform-reserved-words-7.24.6.tgz#9eb16cbf339fcea0a46677716c775afb5ef14245"
+  integrity sha512-DcrgFXRRlK64dGE0ZFBPD5egM2uM8mgfrvTMOSB2yKzOtjpGegVYkzh3s1zZg1bBck3nkXiaOamJUqK3Syk+4A==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.24.0"
+    "@babel/helper-plugin-utils" "^7.24.6"
 
 "@babel/plugin-transform-shorthand-properties@^7.24.1":
   version "7.24.1"
