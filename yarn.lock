@@ -113,12 +113,12 @@
     "@babel/types" "^7.24.7"
 
 "@babel/helper-compilation-targets@^7.22.6", "@babel/helper-compilation-targets@^7.23.6", "@babel/helper-compilation-targets@^7.24.6":
-  version "7.24.6"
-  resolved "https://registry.yarnpkg.com/@babel/helper-compilation-targets/-/helper-compilation-targets-7.24.6.tgz#4a51d681f7680043d38e212715e2a7b1ad29cb51"
-  integrity sha512-VZQ57UsDGlX/5fFA7GkVPplZhHsVc+vuErWgdOiysI9Ksnw0Pbbd6pnPiR/mmJyKHgyIW0c7KT32gmhiF+cirg==
+  version "7.24.7"
+  resolved "https://registry.yarnpkg.com/@babel/helper-compilation-targets/-/helper-compilation-targets-7.24.7.tgz#4eb6c4a80d6ffeac25ab8cd9a21b5dfa48d503a9"
+  integrity sha512-ctSdRHBi20qWOfy27RUb4Fhp07KSJ3sXcuSvTrXrc4aG8NSYDo1ici3Vhg9bg69y5bj0Mr1lh0aeEgTvc12rMg==
   dependencies:
-    "@babel/compat-data" "^7.24.6"
-    "@babel/helper-validator-option" "^7.24.6"
+    "@babel/compat-data" "^7.24.7"
+    "@babel/helper-validator-option" "^7.24.7"
     browserslist "^4.22.2"
     lru-cache "^5.1.1"
     semver "^6.3.1"
