@@ -70,7 +70,7 @@
     json5 "^2.2.3"
     semver "^6.3.1"
 
-"@babel/generator@^7.24.5", "@babel/generator@^7.24.6":
+"@babel/generator@^7.24.5":
   version "7.24.6"
   resolved "https://registry.yarnpkg.com/@babel/generator/-/generator-7.24.6.tgz#dfac82a228582a9d30c959fe50ad28951d4737a7"
   integrity sha512-S7m4eNa6YAPJRHmKsLHIDJhNAGNKoWNiWefz1MBbpnt8g9lvMDl1hir4P9bo/57bQEmuwEhnRU/AMWsD0G/Fbg==
@@ -1208,23 +1208,7 @@
     "@babel/parser" "^7.24.7"
     "@babel/types" "^7.24.7"
 
-"@babel/traverse@^7.24.5":
-  version "7.24.6"
-  resolved "https://registry.yarnpkg.com/@babel/traverse/-/traverse-7.24.6.tgz#0941ec50cdeaeacad0911eb67ae227a4f8424edc"
-  integrity sha512-OsNjaJwT9Zn8ozxcfoBc+RaHdj3gFmCmYoQLUII1o6ZrUwku0BMg80FoOTPx+Gi6XhcQxAYE4xyjPTo4SxEQqw==
-  dependencies:
-    "@babel/code-frame" "^7.24.6"
-    "@babel/generator" "^7.24.6"
-    "@babel/helper-environment-visitor" "^7.24.6"
-    "@babel/helper-function-name" "^7.24.6"
-    "@babel/helper-hoist-variables" "^7.24.6"
-    "@babel/helper-split-export-declaration" "^7.24.6"
-    "@babel/parser" "^7.24.6"
-    "@babel/types" "^7.24.6"
-    debug "^4.3.1"
-    globals "^11.1.0"
-
-"@babel/traverse@^7.24.7":
+"@babel/traverse@^7.24.5", "@babel/traverse@^7.24.7":
   version "7.24.7"
   resolved "https://registry.yarnpkg.com/@babel/traverse/-/traverse-7.24.7.tgz#de2b900163fa741721ba382163fe46a936c40cf5"
   integrity sha512-yb65Ed5S/QAcewNPh0nZczy9JdYXkkAbIsEo+P7BE7yO3txAY30Y/oPa3QkQ5It3xVG2kpKMg9MsdxZaO31uKA==
