@@ -965,12 +965,12 @@
     "@babel/helper-plugin-utils" "^7.24.7"
 
 "@babel/plugin-transform-spread@^7.24.6":
-  version "7.24.6"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-spread/-/plugin-transform-spread-7.24.6.tgz#a56cecbd8617675531d1b79f5b755b7613aa0822"
-  integrity sha512-h/2j7oIUDjS+ULsIrNZ6/TKG97FgmEk1PXryk/HQq6op4XUUUwif2f69fJrzK0wza2zjCS1xhXmouACaWV5uPA==
+  version "7.24.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-spread/-/plugin-transform-spread-7.24.7.tgz#e8a38c0fde7882e0fb8f160378f74bd885cc7bb3"
+  integrity sha512-x96oO0I09dgMDxJaANcRyD4ellXFLLiWhuwDxKZX5g2rWP1bTPkBSwCYv96VDXVT1bD9aPj8tppr5ITIh8hBng==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.24.6"
-    "@babel/helper-skip-transparent-expression-wrappers" "^7.24.6"
+    "@babel/helper-plugin-utils" "^7.24.7"
+    "@babel/helper-skip-transparent-expression-wrappers" "^7.24.7"
 
 "@babel/plugin-transform-sticky-regex@^7.24.6":
   version "7.24.6"
@@ -1199,7 +1199,7 @@
     debug "^4.3.1"
     globals "^11.1.0"
 
-"@babel/types@^7.21.3", "@babel/types@^7.22.5", "@babel/types@^7.24.5", "@babel/types@^7.24.6", "@babel/types@^7.4.4":
+"@babel/types@^7.21.3", "@babel/types@^7.24.5", "@babel/types@^7.24.6", "@babel/types@^7.4.4":
   version "7.24.6"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.24.6.tgz#ba4e1f59870c10dc2fa95a274ac4feec23b21912"
   integrity sha512-WaMsgi6Q8zMgMth93GvWPXkhAIEobfsIkLTacoVZoK1J0CevIPGYY2Vo5YvJGqyHqXM6P4ppOYGsIRU8MM9pFQ==
