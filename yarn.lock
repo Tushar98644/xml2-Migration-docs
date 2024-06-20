@@ -290,16 +290,7 @@
     "@babel/helper-environment-visitor" "^7.24.7"
     "@babel/helper-wrap-function" "^7.24.7"
 
-"@babel/helper-replace-supers@^7.24.6":
-  version "7.24.6"
-  resolved "https://registry.yarnpkg.com/@babel/helper-replace-supers/-/helper-replace-supers-7.24.6.tgz#3ea87405a2986a49ab052d10e540fe036d747c71"
-  integrity sha512-mRhfPwDqDpba8o1F8ESxsEkJMQkUF8ZIWrAc0FtWhxnjfextxMWxr22RtFizxxSYLjVHDeMgVsRq8BBZR2ikJQ==
-  dependencies:
-    "@babel/helper-environment-visitor" "^7.24.6"
-    "@babel/helper-member-expression-to-functions" "^7.24.6"
-    "@babel/helper-optimise-call-expression" "^7.24.6"
-
-"@babel/helper-replace-supers@^7.24.7":
+"@babel/helper-replace-supers@^7.24.6", "@babel/helper-replace-supers@^7.24.7":
   version "7.24.7"
   resolved "https://registry.yarnpkg.com/@babel/helper-replace-supers/-/helper-replace-supers-7.24.7.tgz#f933b7eed81a1c0265740edc91491ce51250f765"
   integrity sha512-qTAxxBM81VEyoAY0TtLrx1oAEJc09ZK67Q9ljQToqCnA+55eNwCORaxlKyu+rNfX86o8OXRUSNUnrtsAZXM9sg==
@@ -1199,7 +1190,7 @@
     debug "^4.3.1"
     globals "^11.1.0"
 
-"@babel/types@^7.21.3", "@babel/types@^7.22.5", "@babel/types@^7.24.5", "@babel/types@^7.24.6", "@babel/types@^7.4.4":
+"@babel/types@^7.21.3", "@babel/types@^7.24.5", "@babel/types@^7.24.6", "@babel/types@^7.4.4":
   version "7.24.6"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.24.6.tgz#ba4e1f59870c10dc2fa95a274ac4feec23b21912"
   integrity sha512-WaMsgi6Q8zMgMth93GvWPXkhAIEobfsIkLTacoVZoK1J0CevIPGYY2Vo5YvJGqyHqXM6P4ppOYGsIRU8MM9pFQ==
