@@ -756,12 +756,12 @@
     "@babel/helper-validator-identifier" "^7.24.6"
 
 "@babel/plugin-transform-modules-umd@^7.24.6":
-  version "7.24.6"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-modules-umd/-/plugin-transform-modules-umd-7.24.6.tgz#c4ef8b6d4da230b8dc87e81cd66986728952f89b"
-  integrity sha512-esRCC/KsSEUvrSjv5rFYnjZI6qv4R1e/iHQrqwbZIoRJqk7xCvEUiN7L1XrmW5QSmQe3n1XD88wbgDTWLbVSyg==
+  version "7.24.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-modules-umd/-/plugin-transform-modules-umd-7.24.7.tgz#edd9f43ec549099620df7df24e7ba13b5c76efc8"
+  integrity sha512-3aytQvqJ/h9z4g8AsKPLvD4Zqi2qT+L3j7XoFFu1XBlZWEl2/1kWnhmAbxpLgPrHSY0M6UA02jyTiwUVtiKR6A==
   dependencies:
-    "@babel/helper-module-transforms" "^7.24.6"
-    "@babel/helper-plugin-utils" "^7.24.6"
+    "@babel/helper-module-transforms" "^7.24.7"
+    "@babel/helper-plugin-utils" "^7.24.7"
 
 "@babel/plugin-transform-named-capturing-groups-regex@^7.24.6":
   version "7.24.6"
