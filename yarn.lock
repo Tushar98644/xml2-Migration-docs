@@ -1002,12 +1002,12 @@
     "@babel/helper-plugin-utils" "^7.24.7"
 
 "@babel/plugin-transform-unicode-sets-regex@^7.24.6":
-  version "7.24.6"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-unicode-sets-regex/-/plugin-transform-unicode-sets-regex-7.24.6.tgz#f18b7292222aee85c155258ceb345a146a070a46"
-  integrity sha512-quiMsb28oXWIDK0gXLALOJRXLgICLiulqdZGOaPPd0vRT7fQp74NtdADAVu+D8s00C+0Xs0MxVP0VKF/sZEUgw==
+  version "7.24.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-unicode-sets-regex/-/plugin-transform-unicode-sets-regex-7.24.7.tgz#d40705d67523803a576e29c63cef6e516b858ed9"
+  integrity sha512-2G8aAvF4wy1w/AGZkemprdGMRg5o6zPNhbHVImRz3lss55TYCBd6xStN19rt8XJHq20sqV0JbyWjOWwQRwV/wg==
   dependencies:
-    "@babel/helper-create-regexp-features-plugin" "^7.24.6"
-    "@babel/helper-plugin-utils" "^7.24.6"
+    "@babel/helper-create-regexp-features-plugin" "^7.24.7"
+    "@babel/helper-plugin-utils" "^7.24.7"
 
 "@babel/preset-env@^7.20.2":
   version "7.24.6"
