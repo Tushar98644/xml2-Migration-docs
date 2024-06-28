@@ -396,12 +396,12 @@
     "@babel/plugin-transform-optional-chaining" "^7.24.7"
 
 "@babel/plugin-bugfix-v8-static-class-fields-redefine-readonly@^7.24.6":
-  version "7.24.6"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-bugfix-v8-static-class-fields-redefine-readonly/-/plugin-bugfix-v8-static-class-fields-redefine-readonly-7.24.6.tgz#0faf879249ec622d7f1c42eaebf7d11197401b2c"
-  integrity sha512-z8zEjYmwBUHN/pCF3NuWBhHQjJCrd33qAi8MgANfMrAvn72k2cImT8VjK9LJFu4ysOLJqhfkYYb3MvwANRUNZQ==
+  version "7.24.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-bugfix-v8-static-class-fields-redefine-readonly/-/plugin-bugfix-v8-static-class-fields-redefine-readonly-7.24.7.tgz#71b21bb0286d5810e63a1538aa901c58e87375ec"
+  integrity sha512-utA4HuR6F4Vvcr+o4DnjL8fCOlgRFGbeeBEGNg3ZTrLFw6VWG5XmUrvcQ0FjIYMU2ST4XcR2Wsp7t9qOAPnxMg==
   dependencies:
-    "@babel/helper-environment-visitor" "^7.24.6"
-    "@babel/helper-plugin-utils" "^7.24.6"
+    "@babel/helper-environment-visitor" "^7.24.7"
+    "@babel/helper-plugin-utils" "^7.24.7"
 
 "@babel/plugin-proposal-private-property-in-object@7.21.0-placeholder-for-preset-env.2":
   version "7.21.0-placeholder-for-preset-env.2"
