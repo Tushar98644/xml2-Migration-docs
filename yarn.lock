@@ -628,11 +628,11 @@
     "@babel/helper-plugin-utils" "^7.24.6"
 
 "@babel/plugin-transform-duplicate-keys@^7.24.6":
-  version "7.24.6"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-duplicate-keys/-/plugin-transform-duplicate-keys-7.24.6.tgz#2716301227cf7cd4fdadcbe4353ce191f8b3dc8a"
-  integrity sha512-/8Odwp/aVkZwPFJMllSbawhDAO3UJi65foB00HYnK/uXvvCPm0TAXSByjz1mpRmp0q6oX2SIxpkUOpPFHk7FLA==
+  version "7.24.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-duplicate-keys/-/plugin-transform-duplicate-keys-7.24.7.tgz#dd20102897c9a2324e5adfffb67ff3610359a8ee"
+  integrity sha512-JdYfXyCRihAe46jUIliuL2/s0x0wObgwwiGxw/UbgJBr20gQBThrokO4nYKgWkD7uBaqM7+9x5TU7NkExZJyzw==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.24.6"
+    "@babel/helper-plugin-utils" "^7.24.7"
 
 "@babel/plugin-transform-dynamic-import@^7.24.6":
   version "7.24.6"
