@@ -23,7 +23,7 @@
     "@babel/highlight" "^7.24.7"
     picocolors "^1.0.0"
 
-"@babel/compat-data@^7.22.6", "@babel/compat-data@^7.24.7":
+"@babel/compat-data@^7.22.6":
   version "7.24.7"
   resolved "https://registry.yarnpkg.com/@babel/compat-data/-/compat-data-7.24.7.tgz#d23bbea508c3883ba8251fb4164982c36ea577ed"
   integrity sha512-qJzAIcv03PyaWqxRgO4mSU3lihncDT296vnyuE2O8uA4w3UHWI4S3hgeZd1L8W1Bft40w9JxJ2b412iDUFFRhw==
@@ -79,18 +79,7 @@
     "@babel/traverse" "^7.24.7"
     "@babel/types" "^7.24.7"
 
-"@babel/helper-compilation-targets@^7.22.6", "@babel/helper-compilation-targets@^7.23.6", "@babel/helper-compilation-targets@^7.24.7":
-  version "7.24.7"
-  resolved "https://registry.yarnpkg.com/@babel/helper-compilation-targets/-/helper-compilation-targets-7.24.7.tgz#4eb6c4a80d6ffeac25ab8cd9a21b5dfa48d503a9"
-  integrity sha512-ctSdRHBi20qWOfy27RUb4Fhp07KSJ3sXcuSvTrXrc4aG8NSYDo1ici3Vhg9bg69y5bj0Mr1lh0aeEgTvc12rMg==
-  dependencies:
-    "@babel/compat-data" "^7.24.7"
-    "@babel/helper-validator-option" "^7.24.7"
-    browserslist "^4.22.2"
-    lru-cache "^5.1.1"
-    semver "^6.3.1"
-
-"@babel/helper-compilation-targets@^7.24.8":
+"@babel/helper-compilation-targets@^7.22.6", "@babel/helper-compilation-targets@^7.23.6", "@babel/helper-compilation-targets@^7.24.7", "@babel/helper-compilation-targets@^7.24.8":
   version "7.24.8"
   resolved "https://registry.yarnpkg.com/@babel/helper-compilation-targets/-/helper-compilation-targets-7.24.8.tgz#b607c3161cd9d1744977d4f97139572fe778c271"
   integrity sha512-oU+UoqCHdp+nWVDkpldqIQL/i/bvAv53tRqLG/s+cOXxe66zOYLU7ar/Xs3LdmBihrUMEUhwu6dMZwbNOYDwvw==
@@ -290,12 +279,7 @@
   resolved "https://registry.yarnpkg.com/@babel/helper-validator-identifier/-/helper-validator-identifier-7.24.7.tgz#75b889cfaf9e35c2aaf42cf0d72c8e91719251db"
   integrity sha512-rR+PBcQ1SMQDDyF6X0wxtG8QyLCgUB0eRAGguqRLfkCA87l7yAP7ehq8SNj96OOGTO8OBV70KhuFYcIkHXOg0w==
 
-"@babel/helper-validator-option@^7.23.5", "@babel/helper-validator-option@^7.24.7":
-  version "7.24.8"
-  resolved "https://registry.yarnpkg.com/@babel/helper-validator-option/-/helper-validator-option-7.24.8.tgz#3725cdeea8b480e86d34df15304806a06975e33d"
-  integrity sha512-xb8t9tD1MHLungh/AIoWYN+gVHaB9kwlu8gffXGSt3FFEIT7RjS+xWbc2vUD1UTZdIpKj/ab3rdqJ7ufngyi2Q==
-
-"@babel/helper-validator-option@^7.24.8":
+"@babel/helper-validator-option@^7.23.5", "@babel/helper-validator-option@^7.24.7", "@babel/helper-validator-option@^7.24.8":
   version "7.24.8"
   resolved "https://registry.yarnpkg.com/@babel/helper-validator-option/-/helper-validator-option-7.24.8.tgz#3725cdeea8b480e86d34df15304806a06975e33d"
   integrity sha512-xb8t9tD1MHLungh/AIoWYN+gVHaB9kwlu8gffXGSt3FFEIT7RjS+xWbc2vUD1UTZdIpKj/ab3rdqJ7ufngyi2Q==
@@ -2663,7 +2647,7 @@ breakword@^1.0.5:
   dependencies:
     wcwidth "^1.0.1"
 
-browserslist@^4.22.2, browserslist@^4.23.0:
+browserslist@^4.23.0:
   version "4.23.1"
   resolved "https://registry.yarnpkg.com/browserslist/-/browserslist-4.23.1.tgz#ce4af0534b3d37db5c1a4ca98b9080f985041e96"
   integrity sha512-TUfofFo/KsK/bWZ9TWQ5O26tsWW4Uhmt8IYklbnUa70udB6P2wA7w7o4PY4muaEPBQaAX+CEnmmIA41NVHtPVw==
