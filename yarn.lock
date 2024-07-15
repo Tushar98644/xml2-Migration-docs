@@ -1247,33 +1247,7 @@
     term-size "^2.1.0"
     tty-table "^4.1.5"
 
-"@changesets/config@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@changesets/config/-/config-3.0.0.tgz#a1a1cafc77134b117b4a9266459c84fdd360a6be"
-  integrity sha512-o/rwLNnAo/+j9Yvw9mkBQOZySDYyOr/q+wptRLcAVGlU6djOeP9v1nlalbL9MFsobuBVQbZCTp+dIzdq+CLQUA==
-  dependencies:
-    "@changesets/errors" "^0.2.0"
-    "@changesets/get-dependents-graph" "^2.0.0"
-    "@changesets/logger" "^0.1.0"
-    "@changesets/types" "^6.0.0"
-    "@manypkg/get-packages" "^1.1.3"
-    fs-extra "^7.0.1"
-    micromatch "^4.0.2"
-
-"@changesets/config@^3.0.1":
-  version "3.0.1"
-  resolved "https://registry.yarnpkg.com/@changesets/config/-/config-3.0.1.tgz#756761918d05283a2f1f141d293960f892e3c632"
-  integrity sha512-nCr8pOemUjvGJ8aUu8TYVjqnUL+++bFOQHBVmtNbLvKzIDkN/uiP/Z4RKmr7NNaiujIURHySDEGFPftR4GbTUA==
-  dependencies:
-    "@changesets/errors" "^0.2.0"
-    "@changesets/get-dependents-graph" "^2.1.0"
-    "@changesets/logger" "^0.1.0"
-    "@changesets/types" "^6.0.0"
-    "@manypkg/get-packages" "^1.1.3"
-    fs-extra "^7.0.1"
-    micromatch "^4.0.2"
-
-"@changesets/config@^3.0.2":
+"@changesets/config@^3.0.0", "@changesets/config@^3.0.1", "@changesets/config@^3.0.2":
   version "3.0.2"
   resolved "https://registry.yarnpkg.com/@changesets/config/-/config-3.0.2.tgz#45b16bf911937afbfa418b87ca4bcebeea1bec47"
   integrity sha512-cdEhS4t8woKCX2M8AotcV2BOWnBp09sqICxKapgLHf9m5KdENpWjyrFNMjkLqGJtUys9U+w93OxWT0czorVDfw==
