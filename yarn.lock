@@ -1383,9 +1383,9 @@
   integrity sha512-QkEyUiLhsJoZkbumGZlswmAhA7CBU02Wrz7zvH4SrcifbsqwlXShVXg65f3v/ts57W3dqyamEriMhij1Z3Zz4A==
 
 "@codemirror/view@^6.0.0", "@codemirror/view@^6.17.0", "@codemirror/view@^6.23.0", "@codemirror/view@^6.27.0", "@codemirror/view@^6.7.1":
-  version "6.28.4"
-  resolved "https://registry.yarnpkg.com/@codemirror/view/-/view-6.28.4.tgz#6fb91182ad9cfa1d300578342d3327348f3ed912"
-  integrity sha512-QScv95fiviSQ/CaVGflxAvvvDy/9wi0RFyDl4LkHHWiMr/UPebyuTspmYSeN5Nx6eujcPYwsQzA6ZIZucKZVHQ==
+  version "6.29.0"
+  resolved "https://registry.yarnpkg.com/@codemirror/view/-/view-6.29.0.tgz#fd44faee1838975d7673055002093a58e1a74c67"
+  integrity sha512-ED4ims4fkf7eOA+HYLVP8VVg3NMllt1FPm9PEJBfYFnidKlRITBaua38u68L1F60eNtw2YNcDN5jsIzhKZwWQA==
   dependencies:
     "@codemirror/state" "^6.4.0"
     style-mod "^4.1.0"
