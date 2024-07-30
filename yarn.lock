@@ -275,12 +275,12 @@
     "@babel/types" "^7.24.7"
 
 "@babel/helpers@^7.24.5":
-  version "7.24.8"
-  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.24.8.tgz#2820d64d5d6686cca8789dd15b074cd862795873"
-  integrity sha512-gV2265Nkcz7weJJfvDoAEVzC1e2OTDpkGbEsebse8koXUJUXPsCMi7sRo/+SPMuMZ9MtUPnGwITTnQnU5YjyaQ==
+  version "7.25.0"
+  resolved "https://registry.yarnpkg.com/@babel/helpers/-/helpers-7.25.0.tgz#e69beb7841cb93a6505531ede34f34e6a073650a"
+  integrity sha512-MjgLZ42aCm0oGjJj8CtSM3DB8NOOf8h2l7DCTePJs29u+v7yO/RBX9nShlKMgFnRks/Q4tBAe7Hxnov9VkGwLw==
   dependencies:
-    "@babel/template" "^7.24.7"
-    "@babel/types" "^7.24.8"
+    "@babel/template" "^7.25.0"
+    "@babel/types" "^7.25.0"
 
 "@babel/highlight@^7.24.7":
   version "7.24.7"
