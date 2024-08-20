@@ -2050,16 +2050,16 @@
     tslib "^2.4.0"
 
 "@tanstack/react-virtual@^3.0.0-beta.60":
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/@tanstack/react-virtual/-/react-virtual-3.9.0.tgz#728e3a1917cb98fb67a17f4190e75f531f1eb0de"
-  integrity sha512-5TeTSQBMV1PIFzBP9cduIX5klRaTvbOw+CxRx3LaUhwqiZLEZBZqz8anEIqG4eHNhDAe+BLarRDeNE9cNM1/EA==
+  version "3.10.1"
+  resolved "https://registry.yarnpkg.com/@tanstack/react-virtual/-/react-virtual-3.10.1.tgz#e7b7dfc26b9b49db8f3099f29470a63a1cfc7044"
+  integrity sha512-h5kNeE+yQwspjl9E3sJ3UYQu/MuspNOBT5cVdc+NA0uU9B1XSkxbzp86teV3arMDVcQ4ESExqs4JyIirYAMcuA==
   dependencies:
-    "@tanstack/virtual-core" "3.9.0"
+    "@tanstack/virtual-core" "3.10.1"
 
-"@tanstack/virtual-core@3.9.0":
-  version "3.9.0"
-  resolved "https://registry.yarnpkg.com/@tanstack/virtual-core/-/virtual-core-3.9.0.tgz#60db41fe8a19bb1a21873d86d8731416391e838a"
-  integrity sha512-Saga7/QRGej/IDCVP5BgJ1oDqlDT2d9rQyoflS3fgMS8ntJ8JGw/LBqK2GorHa06+VrNFc0tGz65XQHJQJetFQ==
+"@tanstack/virtual-core@3.10.1":
+  version "3.10.1"
+  resolved "https://registry.yarnpkg.com/@tanstack/virtual-core/-/virtual-core-3.10.1.tgz#a2312c6cfc6f0d8e3e9a93bb99f96552b82082af"
+  integrity sha512-JDi3wU1HIxuxx8BgD7Ix8IXlelCKdTJIh9c0qBs+QXHdix3mjMbkXI3wOq0TuCx1w1RGgzZue34QrM/NPdp/sw==
 
 "@theguild/remark-mermaid@^0.0.5":
   version "0.0.5"
