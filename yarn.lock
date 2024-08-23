@@ -1718,95 +1718,95 @@
     "@types/mdx" "^2.0.0"
     "@types/react" ">=16"
 
-"@napi-rs/simple-git-android-arm-eabi@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-android-arm-eabi/-/simple-git-android-arm-eabi-0.1.17.tgz#88f33b0c76c5fda5d0e8067e360e038f890d8140"
-  integrity sha512-P+B95PKy46Dq9q1sr18wCn+Uj/WShMIyBBA+ezVHWJge6JSeGh4hLhKEpv3+Rk6S7ITCXxrr7Pn7U4o20nVqhQ==
+"@napi-rs/simple-git-android-arm-eabi@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-android-arm-eabi/-/simple-git-android-arm-eabi-0.1.18.tgz#e9bdf4711f49c1339f1e1f8e64a0898f7688a4ac"
+  integrity sha512-MK3wpgV3wdBDHlv9+etcp+z+15YwVEIZUslkQAvmzQkXvGsqX4DNqtYrz2edZdrG7kBRkUXXZ9l5+33Iox5oSQ==
 
-"@napi-rs/simple-git-android-arm64@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-android-arm64/-/simple-git-android-arm64-0.1.17.tgz#d182eaaf042f5db9f3828b487fb4a19a1219d881"
-  integrity sha512-qggMcxfNKiQsAa1pupFuC8fajvAz6QQcZirHxTPWUxQSEwUvliL8cyKM4QdJwSac0VEITTmHaegDSXsn43EvGg==
+"@napi-rs/simple-git-android-arm64@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-android-arm64/-/simple-git-android-arm64-0.1.18.tgz#56c51ce22f5599c5894977171576c7d29d3aba48"
+  integrity sha512-Yng4mUMQPXCnL8Jt+zdX0fda4aiSniDcuUHLfiNm/avvZ8JgM7zq4nG+sUAol5oskahaeRS0GeXHP44A28m+Qg==
 
-"@napi-rs/simple-git-darwin-arm64@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-darwin-arm64/-/simple-git-darwin-arm64-0.1.17.tgz#c303242bcb25e92a009c8c119e3090c0152a2e1f"
-  integrity sha512-LYgvP3Rw1lCkBW0Ud4xZFUZ2SI+Y2vvy9X/OEzlmqee5VPC1wiez2kZ62lD3ABU0Ta4Khv7W+eJsaXiTuvcq+Q==
+"@napi-rs/simple-git-darwin-arm64@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-darwin-arm64/-/simple-git-darwin-arm64-0.1.18.tgz#e016ced341b3793b7c9572b3e7a06afee34133e8"
+  integrity sha512-pLeOUm8MSrWqhkuCkAuEp6bR7fKjaXnwFDLjaDzy4RcwdsRUNy/LykyP2Ah07OVg+Dl9moj11ViSn0VhM1hI1w==
 
-"@napi-rs/simple-git-darwin-x64@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-darwin-x64/-/simple-git-darwin-x64-0.1.17.tgz#2bc5f4abeeadcb36284e8683a016c192cd94770e"
-  integrity sha512-CyLbxyLILT47jdNDTCREdO0LELKWqfkbw9EV4gaFrLZVD1Dej+NnZogR4oDrg7N12pcgVWnleaK1hcBDs7SeLQ==
+"@napi-rs/simple-git-darwin-x64@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-darwin-x64/-/simple-git-darwin-x64-0.1.18.tgz#da3f17c18488ee30aa9845a033c257ca9a98dae8"
+  integrity sha512-0Vvqo+waHIXIEu0KGUaTFr9pas1P0u3zmjBY/gdexdQfpENIIlPOw9FczwgJEAfe5vWWnq1xzfJkOUB+eJBhIA==
 
-"@napi-rs/simple-git-freebsd-x64@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-freebsd-x64/-/simple-git-freebsd-x64-0.1.17.tgz#0e247f49c089e2293b4bd5277c2ec578340a3c69"
-  integrity sha512-SHWa3o5EZWYh7UoLi2sO4uLjZd58UFHaMttw4O9PZPvFcdjz5LjC6CQclwZbLyPDPMGefalrkUeYTs+/VJ+XEA==
+"@napi-rs/simple-git-freebsd-x64@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-freebsd-x64/-/simple-git-freebsd-x64-0.1.18.tgz#224cbcebd0659f8751fb90d7181c16dd0d9d5962"
+  integrity sha512-uJm+w3d37q+s57Gwp0cRN1GqRIkLCfWI+NpUauXqJZr67u9Ou/oeWbVN3bmupjZ4zI+m5NpAEFPCvAeD8p7IUQ==
 
-"@napi-rs/simple-git-linux-arm-gnueabihf@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm-gnueabihf/-/simple-git-linux-arm-gnueabihf-0.1.17.tgz#89bd94055d92270af72c3a57bb80a66ced6c7cfe"
-  integrity sha512-nQpwitNfSN4qGmDpWOlS3XqeE7NARxCvL+lxO0CtKih2iBuWIoU0wViVKdf9fb/Rm3xsQHcblMkliMnjcAOupg==
+"@napi-rs/simple-git-linux-arm-gnueabihf@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm-gnueabihf/-/simple-git-linux-arm-gnueabihf-0.1.18.tgz#20cba5adec3b7dfcdc6422ef83dae7abef5530e1"
+  integrity sha512-8bGYkkZ/8BUC0Q1XeVfb5YqbSEhRLMqQZ3zm+w9kD8mSxbxjqaYdydEH6SnV+e/UrbCLzc5khVxhH5FFRZimPQ==
 
-"@napi-rs/simple-git-linux-arm64-gnu@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm64-gnu/-/simple-git-linux-arm64-gnu-0.1.17.tgz#cf42f97d56254419a75355fae0a86ce1f10b4606"
-  integrity sha512-JD8nSLa9WY1kAppMufYqcqFYYjZKjZZFdZtlpz6Kn0kk4Qmm3Rvt1etnuQBwax9R2wG4n9YPYfpidDxic8rlNw==
+"@napi-rs/simple-git-linux-arm64-gnu@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm64-gnu/-/simple-git-linux-arm64-gnu-0.1.18.tgz#a3553cdf9aca0fff7bed44208e146bf4753a1f83"
+  integrity sha512-I4qZ3dNm/zaO0FYiamMFD5uBtu6Pp+yR6OADVX/2hJrWaZREFcWRD0losEQK8CbA1e+kW12IHXzq+uX+2prHGA==
 
-"@napi-rs/simple-git-linux-arm64-musl@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm64-musl/-/simple-git-linux-arm64-musl-0.1.17.tgz#c49d0e226cd5e0f81d1acb719a9733c4b586de16"
-  integrity sha512-PRdVIEvgdIuJhDvdneO3X7XfZwujU7MOyymwK3kR1RMJPlbwzxdQBA86am/jEkBP7d8Cx8RbREzJ6y/2hAHKOQ==
+"@napi-rs/simple-git-linux-arm64-musl@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-arm64-musl/-/simple-git-linux-arm64-musl-0.1.18.tgz#b15608ae28a0c4922e7c0f9cd2686be6b01c6a5d"
+  integrity sha512-wFANGmM7J3ZPMenI0sTtGKOIMampmDYUF1d0AZNA0bpQGY2/czToUA5arJN3Afg3hdM6l8VXMTvM2zyWzkPyHg==
 
-"@napi-rs/simple-git-linux-powerpc64le-gnu@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-powerpc64le-gnu/-/simple-git-linux-powerpc64le-gnu-0.1.17.tgz#40c942accfe768baeeafafb111f3506d8b41f7cf"
-  integrity sha512-afbfsJMpQjtdLP3BRGj/hKpRqymxw2Lt+dmyoRej0zKxZnuPrws3Fi85RyYsT/6Tq0hSUAMeh5UtxGAOH3q8gA==
+"@napi-rs/simple-git-linux-powerpc64le-gnu@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-powerpc64le-gnu/-/simple-git-linux-powerpc64le-gnu-0.1.18.tgz#cf3a27fa2924810a02c8194168a3d96dbba5bb12"
+  integrity sha512-fODhJEUN6qF/0oua6pyd/MHumE4FNrEy8wxDZDqc48GHeLRC+NqQabNUey7g5JeqWCpX+b4CySywOvb6NKvYCA==
 
-"@napi-rs/simple-git-linux-s390x-gnu@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-s390x-gnu/-/simple-git-linux-s390x-gnu-0.1.17.tgz#2463692ef7068ba011ee9f4389d31177eb82fd60"
-  integrity sha512-qTgRIUsU+b7RMls+Ji4xlDYq0rsUuNBpzVgb991UPnzrhFWFFkCtyk6I6tJqMtRfg7Vgn1stCghFEQiHmpqkew==
+"@napi-rs/simple-git-linux-s390x-gnu@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-s390x-gnu/-/simple-git-linux-s390x-gnu-0.1.18.tgz#5118c19f79aba518e3c8c3ca4c8f783eb2b1243c"
+  integrity sha512-fYBbSpx1jeK1lj+o6ovQrZy0ac9BdtJ2mqDAsOXk/Z2N5iFVceAzlW7OmkqHgLHYhOpDTw3b205ZhB7OYMzlPA==
 
-"@napi-rs/simple-git-linux-x64-gnu@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-x64-gnu/-/simple-git-linux-x64-gnu-0.1.17.tgz#fa7aca18aed1c575be0d65c8b51f82667332c340"
-  integrity sha512-xHlyUDJhjPUCR07JGrvMfLg5XSRVDsxgpo6B6zYQOSMcVgM7fjvyWNMBe508r4eD5YZKZyBPfSJUc5Ls9ToJNQ==
+"@napi-rs/simple-git-linux-x64-gnu@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-x64-gnu/-/simple-git-linux-x64-gnu-0.1.18.tgz#b5005014fe0b057e641b093a704dd762d2a97dc5"
+  integrity sha512-jpaYDWl6bOWijH+k5Cen/YB/Q1tix9PABv4DRFcAHFI0nLGZmjXxZOulO1XyuUtUxYNasQjFx4T1sN5rMGng8A==
 
-"@napi-rs/simple-git-linux-x64-musl@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-x64-musl/-/simple-git-linux-x64-musl-0.1.17.tgz#333c259798b86f8c16dc0111e3589452c7608706"
-  integrity sha512-eaTr+WPeiuEegduE3O7VzHhHftGXmX1pzzILoOTbbdmeEuH1BHnGAr35XTu+1lUHUqE2JHef3d3PgBHeh844hA==
+"@napi-rs/simple-git-linux-x64-musl@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-linux-x64-musl/-/simple-git-linux-x64-musl-0.1.18.tgz#e13e410fbce42eb6827bc1dc6103b89919088dcb"
+  integrity sha512-MDzBCBWzYshfTZ4TNiYkPy6ob8mNpJSVPIXJ7w6pZhirnVjrbnFlsUjyij6/oqqXPna7tEZreiJgiZRADYWiDw==
 
-"@napi-rs/simple-git-win32-arm64-msvc@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-win32-arm64-msvc/-/simple-git-win32-arm64-msvc-0.1.17.tgz#b6ff6429440c062aa397b33a931faf2cfef54539"
-  integrity sha512-v1F72stOCjapCd0Ha928m8X8i/IPhPQIXbYEGX0MEmaaAzbAJ3PTSSFpb0rFLShXaDFA2Wuw/jzlkPLESPdKVQ==
+"@napi-rs/simple-git-win32-arm64-msvc@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-win32-arm64-msvc/-/simple-git-win32-arm64-msvc-0.1.18.tgz#7db573e6c157e350abb352fb6ef93fa16926dc4e"
+  integrity sha512-crmrLsBVVr6yZXVtMIn1dTKMm9L9nb7EzIpHjwSt1y9SJ+5m/hjEF9Ytr239EDiW9W4r14T/tqRXO01bbeLDuA==
 
-"@napi-rs/simple-git-win32-x64-msvc@0.1.17":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-win32-x64-msvc/-/simple-git-win32-x64-msvc-0.1.17.tgz#9cf19d8b0fab9de8b01c115ed0840e9b196c3a44"
-  integrity sha512-ziSqhCGE2eTUqpQKEutGobU2fH1t9fXwGF58dMFaPgTJIISaENvdnKu5FDJfA94vPbe3BMN64JoTmjBSglGFhQ==
+"@napi-rs/simple-git-win32-x64-msvc@0.1.18":
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git-win32-x64-msvc/-/simple-git-win32-x64-msvc-0.1.18.tgz#5deccbeb3534a9e19b72aafa9f609251298396c7"
+  integrity sha512-AAOe1eSDUsw3bppVXFCD6vFlB+LLmHQh5Vk8xRPh7JY39uX+3ULinFzVVr7R6OYOf5xbr1X551mI+DuLOz/hFA==
 
 "@napi-rs/simple-git@^0.1.9":
-  version "0.1.17"
-  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git/-/simple-git-0.1.17.tgz#94e98cf6c3790aaded6e83eccda713397c07e04b"
-  integrity sha512-lH8bYk2kqfbKsht/Gejd8K+y069ZXPHBfrlcj1ptS6xlJbHhncHxpFyy57W+PTuCcN+MPGVjs+3CiufG8EUrCQ==
+  version "0.1.18"
+  resolved "https://registry.yarnpkg.com/@napi-rs/simple-git/-/simple-git-0.1.18.tgz#4f3c16f7f30e841e8cdabffed2c5b815cfd32647"
+  integrity sha512-8IwzeM2ApCMV986mTDUhKiiVYIcJ/r/1kenj0dnt8YYaHSoCe7tIA8j7WT70nawiQQNgaWB+SNqpAR+jN526fw==
   optionalDependencies:
-    "@napi-rs/simple-git-android-arm-eabi" "0.1.17"
-    "@napi-rs/simple-git-android-arm64" "0.1.17"
-    "@napi-rs/simple-git-darwin-arm64" "0.1.17"
-    "@napi-rs/simple-git-darwin-x64" "0.1.17"
-    "@napi-rs/simple-git-freebsd-x64" "0.1.17"
-    "@napi-rs/simple-git-linux-arm-gnueabihf" "0.1.17"
-    "@napi-rs/simple-git-linux-arm64-gnu" "0.1.17"
-    "@napi-rs/simple-git-linux-arm64-musl" "0.1.17"
-    "@napi-rs/simple-git-linux-powerpc64le-gnu" "0.1.17"
-    "@napi-rs/simple-git-linux-s390x-gnu" "0.1.17"
-    "@napi-rs/simple-git-linux-x64-gnu" "0.1.17"
-    "@napi-rs/simple-git-linux-x64-musl" "0.1.17"
-    "@napi-rs/simple-git-win32-arm64-msvc" "0.1.17"
-    "@napi-rs/simple-git-win32-x64-msvc" "0.1.17"
+    "@napi-rs/simple-git-android-arm-eabi" "0.1.18"
+    "@napi-rs/simple-git-android-arm64" "0.1.18"
+    "@napi-rs/simple-git-darwin-arm64" "0.1.18"
+    "@napi-rs/simple-git-darwin-x64" "0.1.18"
+    "@napi-rs/simple-git-freebsd-x64" "0.1.18"
+    "@napi-rs/simple-git-linux-arm-gnueabihf" "0.1.18"
+    "@napi-rs/simple-git-linux-arm64-gnu" "0.1.18"
+    "@napi-rs/simple-git-linux-arm64-musl" "0.1.18"
+    "@napi-rs/simple-git-linux-powerpc64le-gnu" "0.1.18"
+    "@napi-rs/simple-git-linux-s390x-gnu" "0.1.18"
+    "@napi-rs/simple-git-linux-x64-gnu" "0.1.18"
+    "@napi-rs/simple-git-linux-x64-musl" "0.1.18"
+    "@napi-rs/simple-git-win32-arm64-msvc" "0.1.18"
+    "@napi-rs/simple-git-win32-x64-msvc" "0.1.18"
 
 "@next/env@14.2.6":
   version "14.2.6"
