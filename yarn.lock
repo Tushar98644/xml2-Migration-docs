@@ -1217,6 +1217,17 @@
     micromatch "^4.0.2"
     spawndamnit "^2.0.0"
 
+"@changesets/git@^3.0.1":
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/@changesets/git/-/git-3.0.1.tgz#4499a07d35d8e783cd56f8295fb7d4d70282701b"
+  integrity sha512-pdgHcYBLCPcLd82aRcuO0kxCDbw/yISlOtkmwmE8Odo1L6hSiZrBOsRl84eYG7DRCab/iHnOkWqExqc4wxk2LQ==
+  dependencies:
+    "@changesets/errors" "^0.2.0"
+    "@manypkg/get-packages" "^1.1.3"
+    is-subdir "^1.1.1"
+    micromatch "^4.0.2"
+    spawndamnit "^2.0.0"
+
 "@changesets/logger@^0.1.0":
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/@changesets/logger/-/logger-0.1.0.tgz#2d2a58536c5beeeaef52ab464931d99fcf24f17b"
@@ -1261,18 +1272,17 @@
     fs-extra "^7.0.1"
 
 "@changesets/read@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@changesets/read/-/read-0.6.0.tgz#27e13b58d0b0eb3b0a5cba48a3f4f71f05ef4610"
-  integrity sha512-ZypqX8+/im1Fm98K4YcZtmLKgjs1kDQ5zHpc2U1qdtNBmZZfo/IBiG162RoP0CUF05tvp2y4IspH11PLnPxuuw==
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/@changesets/read/-/read-0.6.1.tgz#32c91d97e602861717696c49a09c23eb492810f6"
+  integrity sha512-jYMbyXQk3nwP25nRzQQGa1nKLY0KfoOV7VLgwucI0bUO8t8ZLCr6LZmgjXsiKuRDc+5A6doKPr9w2d+FEJ55zQ==
   dependencies:
-    "@babel/runtime" "^7.20.1"
-    "@changesets/git" "^3.0.0"
-    "@changesets/logger" "^0.1.0"
+    "@changesets/git" "^3.0.1"
+    "@changesets/logger" "^0.1.1"
     "@changesets/parse" "^0.4.0"
     "@changesets/types" "^6.0.0"
-    chalk "^2.1.0"
     fs-extra "^7.0.1"
     p-filter "^2.1.0"
+    picocolors "^1.1.0"
 
 "@changesets/read@^0.6.1":
   version "0.6.1"
