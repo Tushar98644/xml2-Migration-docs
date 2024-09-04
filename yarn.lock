@@ -1218,11 +1218,10 @@
     p-filter "^2.1.0"
 
 "@changesets/should-skip-package@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@changesets/should-skip-package/-/should-skip-package-0.1.0.tgz#12bb8de00476718e9fbc8a4e783aeea1f632e927"
-  integrity sha512-FxG6Mhjw7yFStlSM7Z0Gmg3RiyQ98d/9VpQAZ3Fzr59dCOM9G6ZdYbjiSAt0XtFr9JR5U2tBaJWPjrkGGc618g==
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@changesets/should-skip-package/-/should-skip-package-0.1.1.tgz#76218ef4ce7691351a6dffdb356e8893267b0b3a"
+  integrity sha512-H9LjLbF6mMHLtJIc/eHR9Na+MifJ3VxtgP/Y+XLn4BF7tDTEN1HNYtH6QMcjP1uxp9sjaFYmW8xqloaCi/ckTg==
   dependencies:
-    "@babel/runtime" "^7.20.1"
     "@changesets/types" "^6.0.0"
     "@manypkg/get-packages" "^1.1.3"
 
