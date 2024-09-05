@@ -1178,11 +1178,11 @@
     spawndamnit "^2.0.0"
 
 "@changesets/logger@^0.1.0":
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/@changesets/logger/-/logger-0.1.0.tgz#2d2a58536c5beeeaef52ab464931d99fcf24f17b"
-  integrity sha512-pBrJm4CQm9VqFVwWnSqKEfsS2ESnwqwH+xR7jETxIErZcfd1u2zBSqrHbRHR7xjhSgep9x2PSKFKY//FAshA3g==
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/@changesets/logger/-/logger-0.1.1.tgz#9926ac4dc8fb00472fe1711603b6b4755d64b435"
+  integrity sha512-OQtR36ZlnuTxKqoW4Sv6x5YIhOmClRd5pWsjZsddYxpWs517R0HkyiefQPIytCVh4ZcC5x9XaG8KTdd5iRQUfg==
   dependencies:
-    chalk "^2.1.0"
+    picocolors "^1.1.0"
 
 "@changesets/parse@^0.4.0":
   version "0.4.0"
@@ -5503,7 +5503,7 @@ periscopic@^3.0.0:
     estree-walker "^3.0.0"
     is-reference "^3.0.0"
 
-picocolors@^1.0.0, picocolors@^1.0.1:
+picocolors@^1.0.0, picocolors@^1.0.1, picocolors@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/picocolors/-/picocolors-1.1.0.tgz#5358b76a78cde483ba5cef6a9dc9671440b27d59"
   integrity sha512-TQ92mBOW0l3LeMeyLV6mzy/kWr8lkd/hp3mTg7wYK7zJhuBStmGMBG0BdeDZS/dZx1IukaX6Bk11zcln25o1Aw==
