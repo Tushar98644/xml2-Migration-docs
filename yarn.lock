@@ -3338,9 +3338,9 @@ eslint-plugin-prettier@^5.2.1:
     synckit "^0.9.1"
 
 eslint-scope@^8.0.2:
-  version "8.0.2"
-  resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-8.0.2.tgz#5cbb33d4384c9136083a71190d548158fe128f94"
-  integrity sha512-6E4xmrTw5wtxnLA5wYL3WDfhZ/1bUBGOXV0zQvVRDOtrR8D0p6W7fs3JweNYhwRYeGvd/1CKX2se0/2s7Q/nJA==
+  version "8.1.0"
+  resolved "https://registry.yarnpkg.com/eslint-scope/-/eslint-scope-8.1.0.tgz#70214a174d4cbffbc3e8a26911d8bf51b9ae9d30"
+  integrity sha512-14dSvlhaVhKKsa9Fx1l8A17s7ah7Ef7wCakJ10LYk6+GYmP9yDti2oq2SEwcyndt6knfcZyhyxwY3i9yL78EQw==
   dependencies:
     esrecurse "^4.3.0"
     estraverse "^5.2.0"
