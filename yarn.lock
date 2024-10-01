@@ -2000,9 +2000,9 @@
     "@swc/helpers" "^0.5.0"
 
 "@react-types/shared@^3.24.1":
-  version "3.24.1"
-  resolved "https://registry.yarnpkg.com/@react-types/shared/-/shared-3.24.1.tgz#fa06cb681d144fce9c515d8bd296d81440a45d25"
-  integrity sha512-AUQeGYEm/zDTN6zLzdXolDxz3Jk5dDL7f506F07U8tBwxNNI3WRdhU84G0/AaFikOZzDXhOZDr3MhQMzyE7Ydw==
+  version "3.25.0"
+  resolved "https://registry.yarnpkg.com/@react-types/shared/-/shared-3.25.0.tgz#7223baf72256e918a3c29081bb1ecc6fad4fbf58"
+  integrity sha512-OZSyhzU6vTdW3eV/mz5i6hQwQUhkRs7xwY2d1aqPvTdMe0+2cY7Fwp45PAiwYLEj73i9ro2FxF9qC4DvHGSCgQ==
 
 "@resvg/resvg-wasm@2.4.0":
   version "2.4.0"
