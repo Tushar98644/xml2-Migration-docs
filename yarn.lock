@@ -272,16 +272,7 @@
     "@babel/helper-wrap-function" "^7.25.0"
     "@babel/traverse" "^7.25.0"
 
-"@babel/helper-replace-supers@^7.24.7", "@babel/helper-replace-supers@^7.25.0":
-  version "7.25.0"
-  resolved "https://registry.yarnpkg.com/@babel/helper-replace-supers/-/helper-replace-supers-7.25.0.tgz#ff44deac1c9f619523fe2ca1fd650773792000a9"
-  integrity sha512-q688zIvQVYtZu+i2PsdIu/uWGRpfxzr5WESsfpShfZECkO+d2o+WROWezCi/Q6kJ0tfPa5+pUGUlfx2HhrA3Bg==
-  dependencies:
-    "@babel/helper-member-expression-to-functions" "^7.24.8"
-    "@babel/helper-optimise-call-expression" "^7.24.7"
-    "@babel/traverse" "^7.25.0"
-
-"@babel/helper-replace-supers@^7.25.7":
+"@babel/helper-replace-supers@^7.24.7", "@babel/helper-replace-supers@^7.25.0", "@babel/helper-replace-supers@^7.25.7":
   version "7.25.7"
   resolved "https://registry.yarnpkg.com/@babel/helper-replace-supers/-/helper-replace-supers-7.25.7.tgz#38cfda3b6e990879c71d08d0fef9236b62bd75f5"
   integrity sha512-iy8JhqlUW9PtZkd4pHM96v6BdJ66Ba9yWSE4z0W4TvSZwLBPkyDsiIU3ENe4SmrzRBs76F7rQXTy1lYC49n6Lw==
