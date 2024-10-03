@@ -981,11 +981,11 @@
     "@babel/helper-plugin-utils" "^7.24.7"
 
 "@babel/plugin-transform-template-literals@^7.24.7":
-  version "7.24.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-template-literals/-/plugin-transform-template-literals-7.24.7.tgz#a05debb4a9072ae8f985bcf77f3f215434c8f8c8"
-  integrity sha512-AfDTQmClklHCOLxtGoP7HkeMw56k1/bTQjwsfhL6pppo/M4TOBSq+jjBUBLmV/4oeFg4GWMavIl44ZeCtmmZTw==
+  version "7.25.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-template-literals/-/plugin-transform-template-literals-7.25.7.tgz#e566c581bb16d8541dd8701093bb3457adfce16b"
+  integrity sha512-SI274k0nUsFFmyQupiO7+wKATAmMFf8iFgq2O+vVFXZ0SV9lNfT1NGzBEhjquFmD8I9sqHLguH+gZVN3vww2AA==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.24.7"
+    "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-typeof-symbol@^7.24.8":
   version "7.25.7"
