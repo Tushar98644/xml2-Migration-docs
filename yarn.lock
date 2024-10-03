@@ -102,13 +102,13 @@
   dependencies:
     "@babel/types" "^7.25.7"
 
-"@babel/helper-builder-binary-assignment-operator-visitor@^7.24.7":
-  version "7.24.7"
-  resolved "https://registry.yarnpkg.com/@babel/helper-builder-binary-assignment-operator-visitor/-/helper-builder-binary-assignment-operator-visitor-7.24.7.tgz#37d66feb012024f2422b762b9b2a7cfe27c7fba3"
-  integrity sha512-xZeCVVdwb4MsDBkkyZ64tReWYrLRHlMN72vP7Bdm3OUOuyFZExhsHUUnuWnm2/XOlAJzR0LfPpB56WXZn0X/lA==
+"@babel/helper-builder-binary-assignment-operator-visitor@^7.25.7":
+  version "7.25.7"
+  resolved "https://registry.yarnpkg.com/@babel/helper-builder-binary-assignment-operator-visitor/-/helper-builder-binary-assignment-operator-visitor-7.25.7.tgz#d721650c1f595371e0a23ee816f1c3c488c0d622"
+  integrity sha512-12xfNeKNH7jubQNm7PAkzlLwEmCs1tfuX3UjIw6vP6QXi+leKh6+LyC/+Ed4EIQermwd58wsyh070yjDHFlNGg==
   dependencies:
-    "@babel/traverse" "^7.24.7"
-    "@babel/types" "^7.24.7"
+    "@babel/traverse" "^7.25.7"
+    "@babel/types" "^7.25.7"
 
 "@babel/helper-compilation-targets@^7.22.6", "@babel/helper-compilation-targets@^7.24.8", "@babel/helper-compilation-targets@^7.25.2":
   version "7.25.2"
@@ -692,12 +692,12 @@
     "@babel/plugin-syntax-dynamic-import" "^7.8.3"
 
 "@babel/plugin-transform-exponentiation-operator@^7.24.7":
-  version "7.24.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-exponentiation-operator/-/plugin-transform-exponentiation-operator-7.24.7.tgz#b629ee22645f412024297d5245bce425c31f9b0d"
-  integrity sha512-Rqe/vSc9OYgDajNIK35u7ot+KeCoetqQYFXM4Epf7M7ez3lWlOjrDjrwMei6caCVhfdw+mIKD4cgdGNy5JQotQ==
+  version "7.25.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-exponentiation-operator/-/plugin-transform-exponentiation-operator-7.25.7.tgz#5961a3a23a398faccd6cddb34a2182807d75fb5f"
+  integrity sha512-yjqtpstPfZ0h/y40fAXRv2snciYr0OAoMXY/0ClC7tm4C/nG5NJKmIItlaYlLbIVAWNfrYuy9dq1bE0SbX0PEg==
   dependencies:
-    "@babel/helper-builder-binary-assignment-operator-visitor" "^7.24.7"
-    "@babel/helper-plugin-utils" "^7.24.7"
+    "@babel/helper-builder-binary-assignment-operator-visitor" "^7.25.7"
+    "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-export-namespace-from@^7.24.7":
   version "7.24.7"
