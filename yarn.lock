@@ -807,11 +807,11 @@
     "@babel/helper-plugin-utils" "^7.24.7"
 
 "@babel/plugin-transform-new-target@^7.24.7":
-  version "7.24.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-new-target/-/plugin-transform-new-target-7.24.7.tgz#31ff54c4e0555cc549d5816e4ab39241dfb6ab00"
-  integrity sha512-RNKwfRIXg4Ls/8mMTza5oPF5RkOW8Wy/WgMAp1/F1yZ8mMbtwXW+HDoJiOsagWrAhI5f57Vncrmr9XeT4CVapA==
+  version "7.25.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-new-target/-/plugin-transform-new-target-7.25.7.tgz#52b2bde523b76c548749f38dc3054f1f45e82bc9"
+  integrity sha512-CfCS2jDsbcZaVYxRFo2qtavW8SpdzmBXC2LOI4oO0rP+JSRDxxF3inF4GcPsLgfb5FjkhXG5/yR/lxuRs2pySA==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.24.7"
+    "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-nullish-coalescing-operator@^7.24.7":
   version "7.24.7"
