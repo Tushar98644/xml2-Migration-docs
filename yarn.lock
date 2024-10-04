@@ -742,12 +742,12 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-named-capturing-groups-regex@^7.24.7":
-  version "7.24.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-named-capturing-groups-regex/-/plugin-transform-named-capturing-groups-regex-7.24.7.tgz#9042e9b856bc6b3688c0c2e4060e9e10b1460923"
-  integrity sha512-/jr7h/EWeJtk1U/uz2jlsCioHkZk1JJZVcc8oQsJ1dUlaJD83f4/6Zeh2aHt9BIFokHIsSeDfhUmju0+1GPd6g==
+  version "7.25.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-named-capturing-groups-regex/-/plugin-transform-named-capturing-groups-regex-7.25.7.tgz#a2f3f6d7f38693b462542951748f0a72a34d196d"
+  integrity sha512-BtAT9LzCISKG3Dsdw5uso4oV1+v2NlVXIIomKJgQybotJY3OwCwJmkongjHgwGKoZXd0qG5UZ12JUlDQ07W6Ow==
   dependencies:
-    "@babel/helper-create-regexp-features-plugin" "^7.24.7"
-    "@babel/helper-plugin-utils" "^7.24.7"
+    "@babel/helper-create-regexp-features-plugin" "^7.25.7"
+    "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-new-target@^7.24.7":
   version "7.25.7"
