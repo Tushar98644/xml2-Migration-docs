@@ -244,7 +244,7 @@
     "@babel/helper-wrap-function" "^7.25.0"
     "@babel/traverse" "^7.25.0"
 
-"@babel/helper-replace-supers@^7.24.7", "@babel/helper-replace-supers@^7.25.7":
+"@babel/helper-replace-supers@^7.25.7":
   version "7.25.7"
   resolved "https://registry.yarnpkg.com/@babel/helper-replace-supers/-/helper-replace-supers-7.25.7.tgz#38cfda3b6e990879c71d08d0fef9236b62bd75f5"
   integrity sha512-iy8JhqlUW9PtZkd4pHM96v6BdJ66Ba9yWSE4z0W4TvSZwLBPkyDsiIU3ENe4SmrzRBs76F7rQXTy1lYC49n6Lw==
@@ -783,12 +783,12 @@
     "@babel/plugin-transform-parameters" "^7.25.7"
 
 "@babel/plugin-transform-object-super@^7.24.7":
-  version "7.24.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-object-super/-/plugin-transform-object-super-7.24.7.tgz#66eeaff7830bba945dd8989b632a40c04ed625be"
-  integrity sha512-A/vVLwN6lBrMFmMDmPPz0jnE6ZGx7Jq7d6sT/Ev4H65RER6pZ+kczlf1DthF5N0qaPHBsI7UXiE8Zy66nmAovg==
+  version "7.25.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-object-super/-/plugin-transform-object-super-7.25.7.tgz#582a9cea8cf0a1e02732be5b5a703a38dedf5661"
+  integrity sha512-pWT6UXCEW3u1t2tcAGtE15ornCBvopHj9Bps9D2DsH15APgNVOTwwczGckX+WkAvBmuoYKRCFa4DK+jM8vh5AA==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.24.7"
-    "@babel/helper-replace-supers" "^7.24.7"
+    "@babel/helper-plugin-utils" "^7.25.7"
+    "@babel/helper-replace-supers" "^7.25.7"
 
 "@babel/plugin-transform-optional-catch-binding@^7.24.7":
   version "7.24.7"
