@@ -132,7 +132,7 @@
     lru-cache "^5.1.1"
     semver "^6.3.1"
 
-"@babel/helper-create-class-features-plugin@^7.24.7", "@babel/helper-create-class-features-plugin@^7.25.4", "@babel/helper-create-class-features-plugin@^7.25.7":
+"@babel/helper-create-class-features-plugin@^7.24.7", "@babel/helper-create-class-features-plugin@^7.25.7":
   version "7.25.7"
   resolved "https://registry.yarnpkg.com/@babel/helper-create-class-features-plugin/-/helper-create-class-features-plugin-7.25.7.tgz#5d65074c76cae75607421c00d6bd517fe1892d6b"
   integrity sha512-bD4WQhbkx80mAyj/WCm4ZHcF4rDxkoLFO6ph8/5/mQ3z4vAzltQXAmbc7GvVJx5H+lk5Mi5EmbTeox5nMGCsbw==
@@ -824,12 +824,12 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-private-methods@^7.25.4":
-  version "7.25.4"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-private-methods/-/plugin-transform-private-methods-7.25.4.tgz#9bbefbe3649f470d681997e0b64a4b254d877242"
-  integrity sha512-ao8BG7E2b/URaUQGqN3Tlsg+M3KlHY6rJ1O1gXAEUnZoyNQnvKyH87Kfg+FoxSeyWUB8ISZZsC91C44ZuBFytw==
+  version "7.25.7"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-private-methods/-/plugin-transform-private-methods-7.25.7.tgz#c790a04f837b4bd61d6b0317b43aa11ff67dce80"
+  integrity sha512-KY0hh2FluNxMLwOCHbxVOKfdB5sjWG4M183885FmaqWWiGMhRZq4DQRKH6mHdEucbJnyDyYiZNwNG424RymJjA==
   dependencies:
-    "@babel/helper-create-class-features-plugin" "^7.25.4"
-    "@babel/helper-plugin-utils" "^7.24.8"
+    "@babel/helper-create-class-features-plugin" "^7.25.7"
+    "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-private-property-in-object@^7.24.7":
   version "7.24.7"
