@@ -1757,9 +1757,9 @@
     "@lezer/lr" "^1.0.0"
 
 "@lezer/javascript@^1.0.0":
-  version "1.4.18"
-  resolved "https://registry.yarnpkg.com/@lezer/javascript/-/javascript-1.4.18.tgz#8768336d877d2cdadc35642deb55a6ad33c09b06"
-  integrity sha512-Y8BeHOt4LtcxJgXwadtfSeWPrh0XzklcCHnCVT+vOsxqH4gWmunP2ykX+VVOlM/dusyVyiNfG3lv0f10UK+mgA==
+  version "1.4.19"
+  resolved "https://registry.yarnpkg.com/@lezer/javascript/-/javascript-1.4.19.tgz#7c8c8e5052537d8c8ddcae428e270227aadbddc9"
+  integrity sha512-j44kbR1QL26l6dMunZ1uhKBFteVGLVCBGNUD2sUaMnic+rbTviVuoK0CD1l9FTW31EueWvFFswCKMH7Z+M3JRA==
   dependencies:
     "@lezer/common" "^1.2.0"
     "@lezer/highlight" "^1.1.3"
