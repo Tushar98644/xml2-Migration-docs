@@ -601,12 +601,11 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-logical-assignment-operators@^7.25.7":
-  version "7.25.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-logical-assignment-operators/-/plugin-transform-logical-assignment-operators-7.25.7.tgz#93847feb513a1f191c5f5d903d991a0ee24fe99b"
-  integrity sha512-iImzbA55BjiovLyG2bggWS+V+OLkaBorNvc/yJoeeDQGztknRnDdYfp2d/UPmunZYEnZi6Lg8QcTmNMHOB0lGA==
+  version "7.25.8"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-logical-assignment-operators/-/plugin-transform-logical-assignment-operators-7.25.8.tgz#01868ff92daa9e525b4c7902aa51979082a05710"
+  integrity sha512-f5W0AhSbbI+yY6VakT04jmxdxz+WsID0neG7+kQZbCOjuyJNdL5Nn4WIBm4hRpKnUcO9lP0eipUhFN12JpoH8g==
   dependencies:
     "@babel/helper-plugin-utils" "^7.25.7"
-    "@babel/plugin-syntax-logical-assignment-operators" "^7.10.4"
 
 "@babel/plugin-transform-member-expression-literals@^7.25.7":
   version "7.25.7"
