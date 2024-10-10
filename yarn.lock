@@ -6222,9 +6222,9 @@ retext-latin@^4.0.0:
     unified "^11.0.0"
 
 retext-smartypants@^6.0.0:
-  version "6.1.1"
-  resolved "https://registry.yarnpkg.com/retext-smartypants/-/retext-smartypants-6.1.1.tgz#6f57e71c889510d9c322ceb61038908ffabd31d0"
-  integrity sha512-onsHf34i/GzgElJgtT1K2V+31yEhWs7NJboKNxXJcmVMMPxLpgxZ9iADoMdydd6j/bHic5F/aNq0CGqElEtu2g==
+  version "6.2.0"
+  resolved "https://registry.yarnpkg.com/retext-smartypants/-/retext-smartypants-6.2.0.tgz#4e852c2974cf2cfa253eeec427c97efc43b5d158"
+  integrity sha512-kk0jOU7+zGv//kfjXEBjdIryL1Acl4i9XNkHxtM7Tm5lFiCog576fjNC9hjoR7LTKQ0DsPWy09JummSsH1uqfQ==
   dependencies:
     "@types/nlcst" "^2.0.0"
     nlcst-to-string "^4.0.0"
