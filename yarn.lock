@@ -5482,9 +5482,9 @@ nextra-theme-docs@latest:
     zod "^3.22.3"
 
 nextra@latest:
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/nextra/-/nextra-3.0.7.tgz#3abc08bcf5ad0d21ede82c00ca293db54b0ebb9b"
-  integrity sha512-DzDS+hin8Jaqf6a4W/f4+qRNr1wdnzpbdc5szIIcck7g0BC4PX3ritwiH11YeAVGU1TFITnuSlMmu3DhC4aLlQ==
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/nextra/-/nextra-3.0.8.tgz#ffcfe8f34083e88b7923dd4a002dd5e5b680e09e"
+  integrity sha512-7YceCGQOPnEMtqIoDRuNg+BvUc4GpUTPJeZsuKEeJ9AwVgCFRPhCJZoDuGNkIEw3pKAqHUaWFm9JXFytHeBRUQ==
   dependencies:
     "@headlessui/react" "^2.1.2"
     "@mdx-js/mdx" "^3.0.0"
