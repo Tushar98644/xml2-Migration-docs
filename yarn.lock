@@ -899,16 +899,7 @@
     debug "^4.3.1"
     globals "^11.1.0"
 
-"@babel/types@^7.21.3", "@babel/types@^7.25.7", "@babel/types@^7.4.4":
-  version "7.25.8"
-  resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.25.8.tgz#5cf6037258e8a9bcad533f4979025140cb9993e1"
-  integrity sha512-JWtuCu8VQsMladxVz/P4HzHUGCAwpuqacmowgXFs5XjxIgKuNjnLokQzuVjlTvIzODaDmpjT3oxcC48vyk9EWg==
-  dependencies:
-    "@babel/helper-string-parser" "^7.25.7"
-    "@babel/helper-validator-identifier" "^7.25.7"
-    to-fast-properties "^2.0.0"
-
-"@babel/types@^7.25.8":
+"@babel/types@^7.21.3", "@babel/types@^7.25.7", "@babel/types@^7.25.8", "@babel/types@^7.4.4":
   version "7.25.8"
   resolved "https://registry.yarnpkg.com/@babel/types/-/types-7.25.8.tgz#5cf6037258e8a9bcad533f4979025140cb9993e1"
   integrity sha512-JWtuCu8VQsMladxVz/P4HzHUGCAwpuqacmowgXFs5XjxIgKuNjnLokQzuVjlTvIzODaDmpjT3oxcC48vyk9EWg==
@@ -5343,9 +5334,9 @@ next@^14.2.15:
     "@next/swc-win32-x64-msvc" "14.2.15"
 
 nextra-theme-docs@latest:
-  version "3.0.8"
-  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-3.0.8.tgz#d95d74387a9d5e985685f81f48bb6ab55e2f1cc0"
-  integrity sha512-3kCc+01KPDolaUaxQD665a1bdy9ZN1HnC/42/7yL4GspAP7BSprKBvkU4rRz9xCFYIYbxDjq6NYV6FWuOnO94g==
+  version "3.0.10"
+  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-3.0.10.tgz#17ad658f4978ccd4b52b49de58c6b07997bedbf1"
+  integrity sha512-IpQeZq8Xm2lE0BpZ3bEGif8U2cnF0UxexQFYwYy9uNWdCtaGj/onJ5IUjF3yjaxyI6z8cxOTqZ0Ve5dXawk46g==
   dependencies:
     "@headlessui/react" "^2.1.2"
     clsx "^2.0.0"
