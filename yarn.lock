@@ -5346,9 +5346,9 @@ next@^14.2.15:
     "@next/swc-win32-x64-msvc" "14.2.15"
 
 nextra-theme-docs@latest:
-  version "3.0.11"
-  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-3.0.11.tgz#b51cc0a61ee9ca79537e7bfd0a34bbccde3ba404"
-  integrity sha512-yRWVw5d9MDn0olgaZ1mEcMUOIkxtHce4lJLpkYo6YgPnrXvwO3wRLEry5zU4aWUUJGTfxkGOWcOgFqVFcOq7XA==
+  version "3.0.12"
+  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-3.0.12.tgz#fb621171fe8ba60e84f2b92fec20972d328eaa6c"
+  integrity sha512-AORG9lvZxvFWwPjPXVlGnQioVCEb0a5cb4ONvXMYDFENLP1iAlKY4eVpfvDUECYCbYTUaQq3EPfA6KhYNCag6A==
   dependencies:
     "@headlessui/react" "^2.1.2"
     clsx "^2.0.0"
