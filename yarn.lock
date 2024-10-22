@@ -748,13 +748,13 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-private-property-in-object@^7.25.8":
-  version "7.25.8"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-private-property-in-object/-/plugin-transform-private-property-in-object-7.25.8.tgz#1234f856ce85e061f9688764194e51ea7577c434"
-  integrity sha512-8Uh966svuB4V8RHHg0QJOB32QK287NBksJOByoKmHMp1TAobNniNalIkI2i5IPj5+S9NYCG4VIjbEuiSN8r+ow==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-private-property-in-object/-/plugin-transform-private-property-in-object-7.25.9.tgz#9c8b73e64e6cc3cbb2743633885a7dd2c385fe33"
+  integrity sha512-Evf3kcMqzXA3xfYJmZ9Pg1OvKdtqsDMSWBDzZOPLvHiTt36E75jLDQo5w1gtRU95Q4E5PDttrTf25Fw8d/uWLw==
   dependencies:
-    "@babel/helper-annotate-as-pure" "^7.25.7"
-    "@babel/helper-create-class-features-plugin" "^7.25.7"
-    "@babel/helper-plugin-utils" "^7.25.7"
+    "@babel/helper-annotate-as-pure" "^7.25.9"
+    "@babel/helper-create-class-features-plugin" "^7.25.9"
+    "@babel/helper-plugin-utils" "^7.25.9"
 
 "@babel/plugin-transform-property-literals@^7.25.7":
   version "7.25.7"
