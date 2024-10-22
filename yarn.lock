@@ -100,6 +100,14 @@
     "@babel/highlight" "^7.25.9"
     picocolors "^1.0.0"
 
+"@babel/code-frame@^7.25.9":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.25.9.tgz#895b6c7e04a7271a0cbfd575d2e8131751914cc7"
+  integrity sha512-z88xeGxnzehn2sqZ8UdGQEvYErF1odv2CftxInpSYJt6uHuPe9YjahKZITGs3l5LeI9d2ROG+obuDAoSlqbNfQ==
+  dependencies:
+    "@babel/highlight" "^7.25.9"
+    picocolors "^1.0.0"
+
 "@babel/compat-data@^7.22.6", "@babel/compat-data@^7.25.7", "@babel/compat-data@^7.25.8":
   version "7.25.8"
   resolved "https://registry.yarnpkg.com/@babel/compat-data/-/compat-data-7.25.8.tgz#0376e83df5ab0eb0da18885c0140041f0747a402"
@@ -449,6 +457,16 @@
   dependencies:
     "@babel/template" "^7.25.9"
     "@babel/types" "^7.25.9"
+
+"@babel/highlight@^7.25.9":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.25.9.tgz#8141ce68fc73757946f983b343f1231f4691acc6"
+  integrity sha512-llL88JShoCsth8fF8R4SJnIn+WLvR6ccFxu1H3FlMhDontdcmZWf2HgIZ7AIqV3Xcck1idlohrN4EUBQz6klbw==
+  dependencies:
+    "@babel/helper-validator-identifier" "^7.25.9"
+    chalk "^2.4.2"
+    js-tokens "^4.0.0"
+    picocolors "^1.0.0"
 
 "@babel/highlight@^7.25.9":
   version "7.25.9"
@@ -895,12 +913,12 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-optional-chaining@^7.25.7", "@babel/plugin-transform-optional-chaining@^7.25.8":
-  version "7.25.8"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-optional-chaining/-/plugin-transform-optional-chaining-7.25.8.tgz#f46283b78adcc5b6ab988a952f989e7dce70653f"
-  integrity sha512-q05Bk7gXOxpTHoQ8RSzGSh/LHVB9JEIkKnk3myAWwZHnYiTGYtbdrYkIsS8Xyh4ltKf7GNUSgzs/6P2bJtBAQg==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-optional-chaining/-/plugin-transform-optional-chaining-7.25.9.tgz#e142eb899d26ef715435f201ab6e139541eee7dd"
+  integrity sha512-6AvV0FsLULbpnXeBjrY4dmWF8F7gf8QnvTEoO/wX/5xm/xE1Xo8oPuD3MPS+KS9f9XBEAWN7X1aWr4z9HdOr7A==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.25.7"
-    "@babel/helper-skip-transparent-expression-wrappers" "^7.25.7"
+    "@babel/helper-plugin-utils" "^7.25.9"
+    "@babel/helper-skip-transparent-expression-wrappers" "^7.25.9"
 
 "@babel/plugin-transform-parameters@^7.25.7":
   version "7.25.7"
@@ -1180,6 +1198,15 @@
     regenerator-runtime "^0.14.0"
 
 "@babel/template@^7.25.7":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/template/-/template-7.25.9.tgz#ecb62d81a8a6f5dc5fe8abfc3901fc52ddf15016"
+  integrity sha512-9DGttpmPvIxBb/2uwpVo3dqJ+O6RooAFOS+lB+xDqoE2PVCE8nfoHMdZLpfCQRLwvohzXISPZcgxt80xLfsuwg==
+  dependencies:
+    "@babel/code-frame" "^7.25.9"
+    "@babel/parser" "^7.25.9"
+    "@babel/types" "^7.25.9"
+
+"@babel/template@^7.25.9":
   version "7.25.9"
   resolved "https://registry.yarnpkg.com/@babel/template/-/template-7.25.9.tgz#ecb62d81a8a6f5dc5fe8abfc3901fc52ddf15016"
   integrity sha512-9DGttpmPvIxBb/2uwpVo3dqJ+O6RooAFOS+lB+xDqoE2PVCE8nfoHMdZLpfCQRLwvohzXISPZcgxt80xLfsuwg==
