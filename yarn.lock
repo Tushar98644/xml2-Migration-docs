@@ -710,11 +710,11 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-numeric-separator@^7.25.8":
-  version "7.25.8"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-numeric-separator/-/plugin-transform-numeric-separator-7.25.8.tgz#91e370486371637bd42161052f2602c701386891"
-  integrity sha512-rm9a5iEFPS4iMIy+/A/PiS0QN0UyjPIeVvbU5EMZFKJZHt8vQnasbpo3T3EFcxzCeYO0BHfc4RqooCZc51J86Q==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-numeric-separator/-/plugin-transform-numeric-separator-7.25.9.tgz#bfed75866261a8b643468b0ccfd275f2033214a1"
+  integrity sha512-TlprrJ1GBZ3r6s96Yq8gEQv82s8/5HnCVHtEJScUj90thHQbwe+E5MLhi2bbNHBEJuzrvltXSru+BUxHDoog7Q==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.25.7"
+    "@babel/helper-plugin-utils" "^7.25.9"
 
 "@babel/plugin-transform-object-rest-spread@^7.25.8":
   version "7.25.8"
