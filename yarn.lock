@@ -158,6 +158,15 @@
     regexpu-core "^6.1.1"
     semver "^6.3.1"
 
+"@babel/helper-create-regexp-features-plugin@^7.25.9":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/helper-create-regexp-features-plugin/-/helper-create-regexp-features-plugin-7.25.9.tgz#3e8999db94728ad2b2458d7a470e7770b7764e26"
+  integrity sha512-ORPNZ3h6ZRkOyAa/SaHU+XsLZr0UQzRwuDQ0cczIA17nAzZ+85G5cVkOJIj7QavLZGSe8QXUmNFxSZzjcZF9bw==
+  dependencies:
+    "@babel/helper-annotate-as-pure" "^7.25.9"
+    regexpu-core "^6.1.1"
+    semver "^6.3.1"
+
 "@babel/helper-define-polyfill-provider@^0.6.2":
   version "0.6.2"
   resolved "https://registry.yarnpkg.com/@babel/helper-define-polyfill-provider/-/helper-define-polyfill-provider-0.6.2.tgz#18594f789c3594acb24cfdb4a7f7b7d2e8bd912d"
@@ -859,12 +868,12 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-unicode-sets-regex@^7.25.7":
-  version "7.25.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-unicode-sets-regex/-/plugin-transform-unicode-sets-regex-7.25.7.tgz#d1b3295d29e0f8f4df76abc909ad1ebee919560c"
-  integrity sha512-YRW8o9vzImwmh4Q3Rffd09bH5/hvY0pxg+1H1i0f7APoUeg12G7+HhLj9ZFNIrYkgBXhIijPJ+IXypN0hLTIbw==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-unicode-sets-regex/-/plugin-transform-unicode-sets-regex-7.25.9.tgz#65114c17b4ffc20fa5b163c63c70c0d25621fabe"
+  integrity sha512-8BYqO3GeVNHtx69fdPshN3fnzUNLrWdHhk/icSwigksJGczKSizZ+Z6SBCxTs723Fr5VSNorTIK7a+R2tISvwQ==
   dependencies:
-    "@babel/helper-create-regexp-features-plugin" "^7.25.7"
-    "@babel/helper-plugin-utils" "^7.25.7"
+    "@babel/helper-create-regexp-features-plugin" "^7.25.9"
+    "@babel/helper-plugin-utils" "^7.25.9"
 
 "@babel/preset-env@^7.20.2":
   version "7.25.8"
