@@ -261,6 +261,15 @@
     "@babel/helper-wrap-function" "^7.25.7"
     "@babel/traverse" "^7.25.7"
 
+"@babel/helper-remap-async-to-generator@^7.25.9":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/helper-remap-async-to-generator/-/helper-remap-async-to-generator-7.25.9.tgz#e53956ab3d5b9fb88be04b3e2f31b523afd34b92"
+  integrity sha512-IZtukuUeBbhgOcaW2s06OXTzVNJR0ybm4W5xC1opWFFJMZbwRj5LCk+ByYH7WdZPZTt8KnFwA8pvjN2yqcPlgw==
+  dependencies:
+    "@babel/helper-annotate-as-pure" "^7.25.9"
+    "@babel/helper-wrap-function" "^7.25.9"
+    "@babel/traverse" "^7.25.9"
+
 "@babel/helper-replace-supers@^7.25.7":
   version "7.25.7"
   resolved "https://registry.yarnpkg.com/@babel/helper-replace-supers/-/helper-replace-supers-7.25.7.tgz#38cfda3b6e990879c71d08d0fef9236b62bd75f5"
@@ -334,6 +343,15 @@
   integrity sha512-e/zv1co8pp55dNdEcCynfj9X7nyUKUXoUEwfXqaZt0omVOmDe9oOTdKStH4GmAw6zxMFs50ZayuMfHDKlO7Tfw==
 
 "@babel/helper-wrap-function@^7.25.7":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/helper-wrap-function/-/helper-wrap-function-7.25.9.tgz#d99dfd595312e6c894bd7d237470025c85eea9d0"
+  integrity sha512-ETzz9UTjQSTmw39GboatdymDq4XIQbR8ySgVrylRhPOFpsd+JrKHIuF0de7GCWmem+T4uC5z7EZguod7Wj4A4g==
+  dependencies:
+    "@babel/template" "^7.25.9"
+    "@babel/traverse" "^7.25.9"
+    "@babel/types" "^7.25.9"
+
+"@babel/helper-wrap-function@^7.25.9":
   version "7.25.9"
   resolved "https://registry.yarnpkg.com/@babel/helper-wrap-function/-/helper-wrap-function-7.25.9.tgz#d99dfd595312e6c894bd7d237470025c85eea9d0"
   integrity sha512-ETzz9UTjQSTmw39GboatdymDq4XIQbR8ySgVrylRhPOFpsd+JrKHIuF0de7GCWmem+T4uC5z7EZguod7Wj4A4g==
@@ -472,13 +490,13 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-async-generator-functions@^7.25.8":
-  version "7.25.8"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-async-generator-functions/-/plugin-transform-async-generator-functions-7.25.8.tgz#3331de02f52cc1f2c75b396bec52188c85b0b1ec"
-  integrity sha512-9ypqkozyzpG+HxlH4o4gdctalFGIjjdufzo7I2XPda0iBnZ6a+FO0rIEQcdSPXp02CkvGsII1exJhmROPQd5oA==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-async-generator-functions/-/plugin-transform-async-generator-functions-7.25.9.tgz#1b18530b077d18a407c494eb3d1d72da505283a2"
+  integrity sha512-RXV6QAzTBbhDMO9fWwOmwwTuYaiPbggWQ9INdZqAYeSHyG7FzQ+nOZaUUjNwKv9pV3aE4WFqFm1Hnbci5tBCAw==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.25.7"
-    "@babel/helper-remap-async-to-generator" "^7.25.7"
-    "@babel/traverse" "^7.25.7"
+    "@babel/helper-plugin-utils" "^7.25.9"
+    "@babel/helper-remap-async-to-generator" "^7.25.9"
+    "@babel/traverse" "^7.25.9"
 
 "@babel/plugin-transform-async-to-generator@^7.25.7":
   version "7.25.7"
