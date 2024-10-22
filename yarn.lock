@@ -169,6 +169,11 @@
   resolved "https://registry.yarnpkg.com/@babel/helper-plugin-utils/-/helper-plugin-utils-7.25.7.tgz#8ec5b21812d992e1ef88a9b068260537b6f0e36c"
   integrity sha512-eaPZai0PiqCi09pPs3pAFfl/zYgGaE6IdXtYvmf0qlcDTd3WCtO7JWCcRd64e0EQrcYgiHibEZnOGsSY4QSgaw==
 
+"@babel/helper-plugin-utils@^7.25.9":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/helper-plugin-utils/-/helper-plugin-utils-7.25.9.tgz#9cbdd63a9443a2c92a725cca7ebca12cc8dd9f46"
+  integrity sha512-kSMlyUVdWe25rEsRGviIgOWnoT/nfABVWlqt9N19/dIPWViAOW2s9wznP5tURbs/IDuNk4gPy3YdYRgH3uxhBw==
+
 "@babel/helper-remap-async-to-generator@^7.25.7":
   version "7.25.7"
   resolved "https://registry.yarnpkg.com/@babel/helper-remap-async-to-generator/-/helper-remap-async-to-generator-7.25.7.tgz#9efdc39df5f489bcd15533c912b6c723a0a65021"
@@ -423,11 +428,11 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-duplicate-keys@^7.25.7":
-  version "7.25.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-duplicate-keys/-/plugin-transform-duplicate-keys-7.25.7.tgz#fbba7d1155eab76bd4f2a038cbd5d65883bd7a93"
-  integrity sha512-by+v2CjoL3aMnWDOyCIg+yxU9KXSRa9tN6MbqggH5xvymmr9p4AMjYkNlQy4brMceBnUyHZ9G8RnpvT8wP7Cfg==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-duplicate-keys/-/plugin-transform-duplicate-keys-7.25.9.tgz#8850ddf57dce2aebb4394bb434a7598031059e6d"
+  integrity sha512-LZxhJ6dvBb/f3x8xwWIuyiAHy56nrRG3PeYTpBkkzkYRRQ6tJLu68lEF5VIqMUZiAV7a8+Tb78nEoMCMcqjXBw==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.25.7"
+    "@babel/helper-plugin-utils" "^7.25.9"
 
 "@babel/plugin-transform-duplicate-named-capturing-groups-regex@^7.25.7":
   version "7.25.7"
