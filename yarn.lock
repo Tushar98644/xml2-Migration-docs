@@ -812,11 +812,11 @@
     regenerator-transform "^0.15.2"
 
 "@babel/plugin-transform-reserved-words@^7.25.7":
-  version "7.25.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-reserved-words/-/plugin-transform-reserved-words-7.25.7.tgz#dc56b25e02afaabef3ce0c5b06b0916e8523e995"
-  integrity sha512-3OfyfRRqiGeOvIWSagcwUTVk2hXBsr/ww7bLn6TRTuXnexA+Udov2icFOxFX9abaj4l96ooYkcNN1qi2Zvqwng==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-reserved-words/-/plugin-transform-reserved-words-7.25.9.tgz#0398aed2f1f10ba3f78a93db219b27ef417fb9ce"
+  integrity sha512-7DL7DKYjn5Su++4RXu8puKZm2XBPHyjWLUidaPEkCUBbE7IPcsrkRHggAOOKydH1dASWdcUBxrkOGNxUv5P3Jg==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.25.7"
+    "@babel/helper-plugin-utils" "^7.25.9"
 
 "@babel/plugin-transform-shorthand-properties@^7.25.7":
   version "7.25.9"
