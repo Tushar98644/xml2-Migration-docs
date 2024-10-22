@@ -76,6 +76,14 @@
     "@babel/highlight" "^7.25.9"
     picocolors "^1.0.0"
 
+"@babel/code-frame@^7.25.9":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/code-frame/-/code-frame-7.25.9.tgz#895b6c7e04a7271a0cbfd575d2e8131751914cc7"
+  integrity sha512-z88xeGxnzehn2sqZ8UdGQEvYErF1odv2CftxInpSYJt6uHuPe9YjahKZITGs3l5LeI9d2ROG+obuDAoSlqbNfQ==
+  dependencies:
+    "@babel/highlight" "^7.25.9"
+    picocolors "^1.0.0"
+
 "@babel/compat-data@^7.22.6", "@babel/compat-data@^7.25.7", "@babel/compat-data@^7.25.8":
   version "7.25.8"
   resolved "https://registry.yarnpkg.com/@babel/compat-data/-/compat-data-7.25.8.tgz#0376e83df5ab0eb0da18885c0140041f0747a402"
@@ -250,6 +258,14 @@
     "@babel/traverse" "^7.25.7"
     "@babel/types" "^7.25.7"
 
+"@babel/helper-module-imports@^7.25.9":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/helper-module-imports/-/helper-module-imports-7.25.9.tgz#e7f8d20602ebdbf9ebbea0a0751fb0f2a4141715"
+  integrity sha512-tnUA4RsrmflIM6W6RFTLFSXITtl0wKjgpnLgXyowocVPrbYrLUXSBXDgTs8BlbmIzIdlBySRQjINYs2BAkiLtw==
+  dependencies:
+    "@babel/traverse" "^7.25.9"
+    "@babel/types" "^7.25.9"
+
 "@babel/helper-module-transforms@^7.25.7":
   version "7.25.7"
   resolved "https://registry.yarnpkg.com/@babel/helper-module-transforms/-/helper-module-transforms-7.25.7.tgz#2ac9372c5e001b19bc62f1fe7d96a18cb0901d1a"
@@ -259,6 +275,16 @@
     "@babel/helper-simple-access" "^7.25.7"
     "@babel/helper-validator-identifier" "^7.25.7"
     "@babel/traverse" "^7.25.7"
+
+"@babel/helper-module-transforms@^7.25.9":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/helper-module-transforms/-/helper-module-transforms-7.25.9.tgz#12e4fb2969197ef6d78ea8a2f24375ce85b425fb"
+  integrity sha512-TvLZY/F3+GvdRYFZFyxMvnsKi+4oJdgZzU3BoGN9Uc2d9C6zfNwJcKKhjqLAhK8i46mv93jsO74fDh3ih6rpHA==
+  dependencies:
+    "@babel/helper-module-imports" "^7.25.9"
+    "@babel/helper-simple-access" "^7.25.9"
+    "@babel/helper-validator-identifier" "^7.25.9"
+    "@babel/traverse" "^7.25.9"
 
 "@babel/helper-optimise-call-expression@^7.25.7":
   version "7.25.7"
@@ -327,6 +353,14 @@
   dependencies:
     "@babel/traverse" "^7.25.7"
     "@babel/types" "^7.25.7"
+
+"@babel/helper-simple-access@^7.25.9":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/helper-simple-access/-/helper-simple-access-7.25.9.tgz#6d51783299884a2c74618d6ef0f86820ec2e7739"
+  integrity sha512-c6WHXuiaRsJTyHYLJV75t9IqsmTbItYfdj99PnzYGQZkYKvan5/2jKJ7gu31J3/BJ/A18grImSPModuyG/Eo0Q==
+  dependencies:
+    "@babel/traverse" "^7.25.9"
+    "@babel/types" "^7.25.9"
 
 "@babel/helper-skip-transparent-expression-wrappers@^7.25.7":
   version "7.25.7"
@@ -399,6 +433,16 @@
   dependencies:
     "@babel/template" "^7.25.9"
     "@babel/types" "^7.25.9"
+
+"@babel/highlight@^7.25.9":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/highlight/-/highlight-7.25.9.tgz#8141ce68fc73757946f983b343f1231f4691acc6"
+  integrity sha512-llL88JShoCsth8fF8R4SJnIn+WLvR6ccFxu1H3FlMhDontdcmZWf2HgIZ7AIqV3Xcck1idlohrN4EUBQz6klbw==
+  dependencies:
+    "@babel/helper-validator-identifier" "^7.25.9"
+    chalk "^2.4.2"
+    js-tokens "^4.0.0"
+    picocolors "^1.0.0"
 
 "@babel/highlight@^7.25.9":
   version "7.25.9"
@@ -735,13 +779,13 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-modules-commonjs@^7.25.7":
-  version "7.25.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-modules-commonjs/-/plugin-transform-modules-commonjs-7.25.7.tgz#173f0c791bb7407c092ce6d77ee90eb3f2d1d2fd"
-  integrity sha512-L9Gcahi0kKFYXvweO6n0wc3ZG1ChpSFdgG+eV1WYZ3/dGbJK7vvk91FgGgak8YwRgrCuihF8tE/Xg07EkL5COg==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-modules-commonjs/-/plugin-transform-modules-commonjs-7.25.9.tgz#d165c8c569a080baf5467bda88df6425fc060686"
+  integrity sha512-dwh2Ol1jWwL2MgkCzUSOvfmKElqQcuswAZypBSUsScMXvgdT8Ekq5YA6TtqpTVWH+4903NmboMuH1o9i8Rxlyg==
   dependencies:
-    "@babel/helper-module-transforms" "^7.25.7"
-    "@babel/helper-plugin-utils" "^7.25.7"
-    "@babel/helper-simple-access" "^7.25.7"
+    "@babel/helper-module-transforms" "^7.25.9"
+    "@babel/helper-plugin-utils" "^7.25.9"
+    "@babel/helper-simple-access" "^7.25.9"
 
 "@babel/plugin-transform-modules-systemjs@^7.25.7":
   version "7.25.7"
@@ -1100,6 +1144,15 @@
     regenerator-runtime "^0.14.0"
 
 "@babel/template@^7.25.7":
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/template/-/template-7.25.9.tgz#ecb62d81a8a6f5dc5fe8abfc3901fc52ddf15016"
+  integrity sha512-9DGttpmPvIxBb/2uwpVo3dqJ+O6RooAFOS+lB+xDqoE2PVCE8nfoHMdZLpfCQRLwvohzXISPZcgxt80xLfsuwg==
+  dependencies:
+    "@babel/code-frame" "^7.25.9"
+    "@babel/parser" "^7.25.9"
+    "@babel/types" "^7.25.9"
+
+"@babel/template@^7.25.9":
   version "7.25.9"
   resolved "https://registry.yarnpkg.com/@babel/template/-/template-7.25.9.tgz#ecb62d81a8a6f5dc5fe8abfc3901fc52ddf15016"
   integrity sha512-9DGttpmPvIxBb/2uwpVo3dqJ+O6RooAFOS+lB+xDqoE2PVCE8nfoHMdZLpfCQRLwvohzXISPZcgxt80xLfsuwg==
