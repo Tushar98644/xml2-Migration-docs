@@ -861,12 +861,12 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-transform-unicode-property-regex@^7.25.7":
-  version "7.25.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-unicode-property-regex/-/plugin-transform-unicode-property-regex-7.25.7.tgz#25349197cce964b1343f74fa7cfdf791a1b1919e"
-  integrity sha512-IWfR89zcEPQGB/iB408uGtSPlQd3Jpq11Im86vUgcmSTcoWAiQMCTOa2K2yNNqFJEBVICKhayctee65Ka8OB0w==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-unicode-property-regex/-/plugin-transform-unicode-property-regex-7.25.9.tgz#a901e96f2c1d071b0d1bb5dc0d3c880ce8f53dd3"
+  integrity sha512-Jt2d8Ga+QwRluxRQ307Vlxa6dMrYEMZCgGxoPR8V52rxPyldHu3hdlHspxaqYmE7oID5+kB+UKUB/eWS+DkkWg==
   dependencies:
-    "@babel/helper-create-regexp-features-plugin" "^7.25.7"
-    "@babel/helper-plugin-utils" "^7.25.7"
+    "@babel/helper-create-regexp-features-plugin" "^7.25.9"
+    "@babel/helper-plugin-utils" "^7.25.9"
 
 "@babel/plugin-transform-unicode-regex@^7.25.7":
   version "7.25.7"
