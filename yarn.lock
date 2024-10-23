@@ -652,12 +652,12 @@
     "@babel/traverse" "^7.25.7"
 
 "@babel/plugin-transform-modules-umd@^7.25.7":
-  version "7.25.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-modules-umd/-/plugin-transform-modules-umd-7.25.7.tgz#00ee7a7e124289549381bfb0e24d87fd7f848367"
-  integrity sha512-p88Jg6QqsaPh+EB7I9GJrIqi1Zt4ZBHUQtjw3z1bzEXcLh6GfPqzZJ6G+G1HBGKUNukT58MnKG7EN7zXQBCODw==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-modules-umd/-/plugin-transform-modules-umd-7.25.9.tgz#6710079cdd7c694db36529a1e8411e49fcbf14c9"
+  integrity sha512-bS9MVObUgE7ww36HEfwe6g9WakQ0KF07mQF74uuXdkoziUPfKyu/nIm663kz//e5O1nPInPFx36z7WJmJ4yNEw==
   dependencies:
-    "@babel/helper-module-transforms" "^7.25.7"
-    "@babel/helper-plugin-utils" "^7.25.7"
+    "@babel/helper-module-transforms" "^7.25.9"
+    "@babel/helper-plugin-utils" "^7.25.9"
 
 "@babel/plugin-transform-named-capturing-groups-regex@^7.25.7":
   version "7.25.7"
