@@ -409,11 +409,11 @@
     "@babel/helper-plugin-utils" "^7.25.7"
 
 "@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression@^7.25.7":
-  version "7.25.7"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/-/plugin-bugfix-safari-id-destructuring-collision-in-function-expression-7.25.7.tgz#c5f755e911dfac7ef6957300c0f9c4a8c18c06f4"
-  integrity sha512-wxyWg2RYaSUYgmd9MR0FyRGyeOMQE/Uzr1wzd/g5cf5bwi9A4v6HFdDm7y1MgDtod/fLOSTZY6jDgV0xU9d5bA==
+  version "7.25.9"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-bugfix-safari-id-destructuring-collision-in-function-expression/-/plugin-bugfix-safari-id-destructuring-collision-in-function-expression-7.25.9.tgz#e8dc26fcd616e6c5bf2bd0d5a2c151d4f92a9137"
+  integrity sha512-2qUwwfAFpJLZqxd02YW9btUCZHl+RFvdDkNfZwaIJrvB8Tesjsk8pEQkTvGwZXLqXUx/2oyY3ySRhm6HOXuCug==
   dependencies:
-    "@babel/helper-plugin-utils" "^7.25.7"
+    "@babel/helper-plugin-utils" "^7.25.9"
 
 "@babel/plugin-bugfix-v8-spread-parameters-in-optional-chaining@^7.25.7":
   version "7.25.7"
