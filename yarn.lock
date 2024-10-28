@@ -2195,9 +2195,9 @@
     unist-util-visit "^5.0.0"
 
 "@theguild/remark-npm2yarn@^0.3.2":
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/@theguild/remark-npm2yarn/-/remark-npm2yarn-0.3.2.tgz#536b121d00793800ad856789068ffca87d17da1a"
-  integrity sha512-H9T/GOuS/+4H7AY1cfD5DJIIIcGIIw1zMCB8OeTgXk7azJULsnuOurZ/CR54rvuTD+Krx0MVQccaUCvCWfP+vw==
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/@theguild/remark-npm2yarn/-/remark-npm2yarn-0.3.3.tgz#5c132375d4fc83c5c49cf0fabc4e5f4147dba87c"
+  integrity sha512-ma6DvR03gdbvwqfKx1omqhg9May/VYGdMHvTzB4VuxkyS7KzfZ/lzrj43hmcsggpMje0x7SADA/pcMph0ejRnA==
   dependencies:
     npm-to-yarn "^3.0.0"
     unist-util-visit "^5.0.0"
