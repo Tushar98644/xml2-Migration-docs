@@ -383,9 +383,9 @@
     "@babel/helper-plugin-utils" "^7.25.9"
 
 "@babel/plugin-transform-class-static-block@^7.25.9":
-  version "7.25.9"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-class-static-block/-/plugin-transform-class-static-block-7.25.9.tgz#1cab37c4278a563409d74c1e4f08fb77de5d7a5c"
-  integrity sha512-UIf+72C7YJ+PJ685/PpATbCz00XqiFEzHX5iysRwfvNT0Ko+FaXSvRgLytFSp8xUItrG9pFM/KoBBZDrY/cYyg==
+  version "7.26.0"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-transform-class-static-block/-/plugin-transform-class-static-block-7.26.0.tgz#6c8da219f4eb15cae9834ec4348ff8e9e09664a0"
+  integrity sha512-6J2APTs7BDDm+UMqP1useWqhcRAXo0WIoVj26N7kPFB6S73Lgvyka4KTZYIxtgYXiN5HTyRObA72N2iu628iTQ==
   dependencies:
     "@babel/helper-create-class-features-plugin" "^7.25.9"
     "@babel/helper-plugin-utils" "^7.25.9"
