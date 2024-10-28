@@ -300,9 +300,9 @@
   integrity sha512-SOSkfJDddaM7mak6cPEpswyTRnuRltl429hMraQEglW+OkovnCzsiszTmsrlY//qLFjCpQDFRvjdm2wA5pPm9w==
 
 "@babel/plugin-syntax-import-assertions@^7.25.9":
-  version "7.25.9"
-  resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-import-assertions/-/plugin-syntax-import-assertions-7.25.9.tgz#631686872fac3d4d1f1ae9a406a8fd1c482c7b2a"
-  integrity sha512-4GHX5uzr5QMOOuzV0an9MFju4hKlm0OyePl/lHhcsTVae5t/IKVHnb8W67Vr6FuLlk5lPqLB7n7O+K5R46emYg==
+  version "7.26.0"
+  resolved "https://registry.yarnpkg.com/@babel/plugin-syntax-import-assertions/-/plugin-syntax-import-assertions-7.26.0.tgz#620412405058efa56e4a564903b79355020f445f"
+  integrity sha512-QCWT5Hh830hK5EQa7XzuqIkQU9tT/whqbDz7kuaZMHFl1inRRg7JnuAEOQ0Ur0QUl0NufCk1msK2BeY79Aj/eg==
   dependencies:
     "@babel/helper-plugin-utils" "^7.25.9"
 
