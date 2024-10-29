@@ -37,12 +37,7 @@
     js-tokens "^4.0.0"
     picocolors "^1.0.0"
 
-"@babel/compat-data@^7.22.6", "@babel/compat-data@^7.25.9":
-  version "7.26.0"
-  resolved "https://registry.yarnpkg.com/@babel/compat-data/-/compat-data-7.26.0.tgz#f02ba6d34e88fadd5e8861e8b38902f43cc1c819"
-  integrity sha512-qETICbZSLe7uXv9VE8T/RWOdIE5qqyTucOt4zLYMafj2MRO271VGgLd4RACJMeBO37UPWhXiKMBk7YlJ0fOzQA==
-
-"@babel/compat-data@^7.26.0":
+"@babel/compat-data@^7.22.6", "@babel/compat-data@^7.25.9", "@babel/compat-data@^7.26.0":
   version "7.26.0"
   resolved "https://registry.yarnpkg.com/@babel/compat-data/-/compat-data-7.26.0.tgz#f02ba6d34e88fadd5e8861e8b38902f43cc1c819"
   integrity sha512-qETICbZSLe7uXv9VE8T/RWOdIE5qqyTucOt4zLYMafj2MRO271VGgLd4RACJMeBO37UPWhXiKMBk7YlJ0fOzQA==
@@ -5382,9 +5377,9 @@ next@^15.0.1:
     sharp "^0.33.5"
 
 nextra-theme-docs@latest:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-3.1.2.tgz#2595e58866fcc68714e4156f471973cf92a6f272"
-  integrity sha512-Y/dqqVtC41b+4gTH59QTTqb+VKbDRtlQsXjpMkZThGFIqEWlpxgIHqUgWQNAn+yaEkDSvDMqHM/jHf0JRGZn9w==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-3.2.0.tgz#0b5c10f0b3e508dddc77ea1589ac059263f2b9ed"
+  integrity sha512-bUa0W3rh+OgUrE8aJXqYpjVAu0AmkJuHZd9Me0qjGK5YinSvQv7jzAWI7+Af4vnWdRkPlh6MIUUHAOPo+Yalcw==
   dependencies:
     "@headlessui/react" "^2.1.2"
     clsx "^2.0.0"
