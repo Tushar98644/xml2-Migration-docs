@@ -236,14 +236,7 @@
     "@babel/template" "^7.25.9"
     "@babel/types" "^7.26.0"
 
-"@babel/parser@^7.25.9", "@babel/parser@^7.26.0":
-  version "7.26.2"
-  resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.26.2.tgz#fd7b6f487cfea09889557ef5d4eeb9ff9a5abd11"
-  integrity sha512-DWMCZH9WA4Maitz2q21SRKHo9QXZxkDsbNZoVD62gusNtNBBqDg9i7uOhASfTfIGNzW+O+r7+jAlM8dwphcJKQ==
-  dependencies:
-    "@babel/types" "^7.26.0"
-
-"@babel/parser@^7.26.2":
+"@babel/parser@^7.25.9", "@babel/parser@^7.26.0", "@babel/parser@^7.26.2":
   version "7.26.2"
   resolved "https://registry.yarnpkg.com/@babel/parser/-/parser-7.26.2.tgz#fd7b6f487cfea09889557ef5d4eeb9ff9a5abd11"
   integrity sha512-DWMCZH9WA4Maitz2q21SRKHo9QXZxkDsbNZoVD62gusNtNBBqDg9i7uOhASfTfIGNzW+O+r7+jAlM8dwphcJKQ==
@@ -2473,10 +2466,10 @@
   resolved "https://registry.yarnpkg.com/@types/node/-/node-12.20.55.tgz#c329cbd434c42164f846b909bd6f85b5537f6240"
   integrity sha512-J8xLz7q2OFulZ2cyGTLE1TbbZcjpno7FaN6zdJNrgAdrJ+DZzh/uFR6YrTb4C+nXakvud8Q4+rbhoIWlYQbUFQ==
 
-"@types/node@^22.8.4":
-  version "22.8.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.8.4.tgz#ab754f7ac52e1fe74174f761c5b03acaf06da0dc"
-  integrity sha512-SpNNxkftTJOPk0oN+y2bIqurEXHTA2AOZ3EJDDKeJ5VzkvvORSvmQXGQarcOzWV1ac7DCaPBEdMDxBsM+d8jWw==
+"@types/node@^22.8.6":
+  version "22.8.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-22.8.6.tgz#e8a0c0871623283d8b3ef7d7b9b1bfdfd3028e22"
+  integrity sha512-tosuJYKrIqjQIlVCM4PEGxOmyg3FCPa/fViuJChnGeEIhjA46oy8FMVoF9su1/v8PNs2a8Q0iFNyOx0uOF91nw==
   dependencies:
     undici-types "~6.19.8"
 
