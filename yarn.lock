@@ -5359,9 +5359,9 @@ nextra-theme-docs@latest:
     zod "^3.22.3"
 
 nextra@latest:
-  version "3.1.2"
-  resolved "https://registry.yarnpkg.com/nextra/-/nextra-3.1.2.tgz#28dcd753909b852d179e3e2985039ae19f71fd90"
-  integrity sha512-SpnMsAIOgGIlS5AdyWbV8WZf73qWMtxYhoinRZG12Q0O71Lp6F27yW8rrfc0aVxyJkspkkxLQbZNrFZJpgW+Yg==
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/nextra/-/nextra-3.2.0.tgz#e1588df009e5f059181b0ac307c20010211c83a6"
+  integrity sha512-Gi+Q6BI9rFmQdy3e4FXCqgaSUcv8CGRVOVWbgY6/GTAWKMKK4v5M1gxYNhxdOywSkIoXrxSeXbIaj0qgNdjv3A==
   dependencies:
     "@formatjs/intl-localematcher" "^0.5.4"
     "@headlessui/react" "^2.1.2"
