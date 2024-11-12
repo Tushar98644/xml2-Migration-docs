@@ -122,18 +122,7 @@
     regexpu-core "^6.1.1"
     semver "^6.3.1"
 
-"@babel/helper-define-polyfill-provider@^0.6.2":
-  version "0.6.3"
-  resolved "https://registry.yarnpkg.com/@babel/helper-define-polyfill-provider/-/helper-define-polyfill-provider-0.6.3.tgz#f4f2792fae2ef382074bc2d713522cf24e6ddb21"
-  integrity sha512-HK7Bi+Hj6H+VTHA3ZvBis7V/6hu9QuTrnMXNybfUf2iiuU/N97I8VjB+KbhFF8Rld/Lx5MzoCwPCpPjfK+n8Cg==
-  dependencies:
-    "@babel/helper-compilation-targets" "^7.22.6"
-    "@babel/helper-plugin-utils" "^7.22.5"
-    debug "^4.1.1"
-    lodash.debounce "^4.0.8"
-    resolve "^1.14.2"
-
-"@babel/helper-define-polyfill-provider@^0.6.3":
+"@babel/helper-define-polyfill-provider@^0.6.2", "@babel/helper-define-polyfill-provider@^0.6.3":
   version "0.6.3"
   resolved "https://registry.yarnpkg.com/@babel/helper-define-polyfill-provider/-/helper-define-polyfill-provider-0.6.3.tgz#f4f2792fae2ef382074bc2d713522cf24e6ddb21"
   integrity sha512-HK7Bi+Hj6H+VTHA3ZvBis7V/6hu9QuTrnMXNybfUf2iiuU/N97I8VjB+KbhFF8Rld/Lx5MzoCwPCpPjfK+n8Cg==
@@ -5271,9 +5260,9 @@ micromark-extension-mdxjs@^3.0.0:
     micromark-util-types "^2.0.0"
 
 micromark-factory-destination@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/micromark-factory-destination/-/micromark-factory-destination-2.0.0.tgz#857c94debd2c873cba34e0445ab26b74f6a6ec07"
-  integrity sha512-j9DGrQLm/Uhl2tCzcbLhy5kXsgkHUrjJHg4fFAeoMRwJmJerT9aw4FEhIbZStWN8A3qMwOp1uzHr4UL8AInxtA==
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/micromark-factory-destination/-/micromark-factory-destination-2.0.1.tgz#8fef8e0f7081f0474fbdd92deb50c990a0264639"
+  integrity sha512-Xe6rDdJlkmbFRExpTOmRj9N3MaWmbAgdpSrBQvCFqhezUn4AHqJHbaEnfbVYYiexVSs//tqOdY/DxhjdCiJnIA==
   dependencies:
     micromark-util-character "^2.0.0"
     micromark-util-symbol "^2.0.0"
