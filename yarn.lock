@@ -5584,9 +5584,9 @@ next@^15.0.3:
     sharp "^0.33.5"
 
 nextra-theme-docs@latest:
-  version "3.2.3"
-  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-3.2.3.tgz#b32e5edf6e4e51d0331d2de2d6413c3078b25d1a"
-  integrity sha512-kRhnLxbAbD3FgR93yLbu6Iz6XvErka3I5CcVo3VobLuV1mefbZ1T6DfiY6q0KJoHLGRrJESsFSarIqPjKOx00g==
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/nextra-theme-docs/-/nextra-theme-docs-3.2.4.tgz#40b0b136df9fbfc067c707816290549128bc8160"
+  integrity sha512-3fg7zMHInuvSDURRJjh6UrbdqkK8uLs8RNriY38kVukWLvaVP2f6mmVJKIYqxVv6qAKWEzDLTr4dlJCY81eXuQ==
   dependencies:
     "@headlessui/react" "^2.1.2"
     clsx "^2.0.0"
