@@ -1923,14 +1923,21 @@
   dependencies:
     "@swc/helpers" "^0.5.0"
 
-"@react-aria/utils@^3.25.3":
-  version "3.25.3"
-  resolved "https://registry.yarnpkg.com/@react-aria/utils/-/utils-3.25.3.tgz#cad9bffc07b045cdc283df2cb65c18747acbf76d"
-  integrity sha512-PR5H/2vaD8fSq0H/UB9inNbc8KDcVmW6fYAfSWkkn+OAdhTTMVKqXXrZuZBWyFfSD5Ze7VN6acr4hrOQm2bmrA==
+"@react-aria/ssr@^3.9.7":
+  version "3.9.7"
+  resolved "https://registry.yarnpkg.com/@react-aria/ssr/-/ssr-3.9.7.tgz#d89d129f7bbc5148657e6c952ac31c9353183770"
+  integrity sha512-GQygZaGlmYjmYM+tiNBA5C6acmiDWF52Nqd40bBp0Znk4M4hP+LTmI0lpI1BuKMw45T8RIhrAsICIfKwZvi2Gg==
   dependencies:
-    "@react-aria/ssr" "^3.9.6"
-    "@react-stately/utils" "^3.10.4"
-    "@react-types/shared" "^3.25.0"
+    "@swc/helpers" "^0.5.0"
+
+"@react-aria/utils@^3.25.3":
+  version "3.26.0"
+  resolved "https://registry.yarnpkg.com/@react-aria/utils/-/utils-3.26.0.tgz#833cbfa33e75d15835b757791b3f754432d2f948"
+  integrity sha512-LkZouGSjjQ0rEqo4XJosS4L3YC/zzQkfRM3KoqK6fUOmUJ9t0jQ09WjiF+uOoG9u+p30AVg3TrZRUWmoTS+koQ==
+  dependencies:
+    "@react-aria/ssr" "^3.9.7"
+    "@react-stately/utils" "^3.10.5"
+    "@react-types/shared" "^3.26.0"
     "@swc/helpers" "^0.5.0"
     clsx "^2.0.0"
 
@@ -1958,10 +1965,10 @@
   resolved "https://registry.yarnpkg.com/@react-hook/passive-layout-effect/-/passive-layout-effect-1.2.1.tgz#c06dac2d011f36d61259aa1c6df4f0d5e28bc55e"
   integrity sha512-IwEphTD75liO8g+6taS+4oqz+nnroocNfWVHWz7j+N+ZO2vYrc6PV1q7GQhuahL0IOR7JccFTsFKQ/mb6iZWAg==
 
-"@react-stately/utils@^3.10.4":
-  version "3.10.4"
-  resolved "https://registry.yarnpkg.com/@react-stately/utils/-/utils-3.10.4.tgz#310663a834b67048d305e1680ed258130092fe51"
-  integrity sha512-gBEQEIMRh5f60KCm7QKQ2WfvhB2gLUr9b72sqUdIZ2EG+xuPgaIlCBeSicvjmjBvYZwOjoOEnmIkcx2GHp/HWw==
+"@react-stately/utils@^3.10.5":
+  version "3.10.5"
+  resolved "https://registry.yarnpkg.com/@react-stately/utils/-/utils-3.10.5.tgz#47bb91cd5afd1bafe39353614e5e281b818ebccc"
+  integrity sha512-iMQSGcpaecghDIh3mZEpZfoFH3ExBwTtuBEcvZ2XnGzCgQjeYXcMdIUwAfVQLXFTdHUHGF6Gu6/dFrYsCzySBQ==
   dependencies:
     "@swc/helpers" "^0.5.0"
 
