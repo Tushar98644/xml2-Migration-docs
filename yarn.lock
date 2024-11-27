@@ -2305,9 +2305,9 @@
   integrity sha512-Imagg1vJ3y76Y2ea0871wpabqp613+8/r0mCLEBfdtqC7xMSfj9idOnmBYyMoULfHePJyxMAw3nWhJxzc+LFwQ==
 
 "@types/d3-scale-chromatic@*":
-  version "3.0.3"
-  resolved "https://registry.yarnpkg.com/@types/d3-scale-chromatic/-/d3-scale-chromatic-3.0.3.tgz#fc0db9c10e789c351f4c42d96f31f2e4df8f5644"
-  integrity sha512-laXM4+1o5ImZv3RpFAsTRn3TEkzqkytiOY0Dz0sq5cnd1dtNlk6sHLon4OvqaiJb28T0S/TdsBI3Sjsy+keJrw==
+  version "3.1.0"
+  resolved "https://registry.yarnpkg.com/@types/d3-scale-chromatic/-/d3-scale-chromatic-3.1.0.tgz#dc6d4f9a98376f18ea50bad6c39537f1b5463c39"
+  integrity sha512-iWMJgwkK7yTRmWqRB5plb1kadXyQ5Sj8V/zYlFGMUBbIPKQScw+Dku9cAAMgJG+z5GYDoMjWGLVOvjghDEFnKQ==
 
 "@types/d3-scale@*":
   version "4.0.8"
